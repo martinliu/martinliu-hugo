@@ -1,0 +1,69 @@
+baseurl = "https://martinliu.cn/"
+DefaultContentLanguage = "en"
+hasCJKLanguage = true
+languageCode = "zh-cn"
+title = "Maritn's Blog" 
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentCodeFences = true
+#googleAnalytics = "XXX"
+
+[Params]
+  hello = "Do you have a pleasent DevOps journey?"
+  subtitle = "I am a runner, blogger and open source funs"
+  logo = "/img/logo.jpg"
+  favicon = "/img/favicon.ico"
+  dateFormat = "2006, January 2"
+  commit = false
+  #rss = true
+  comments = false
+  sharebutton = true
+  algolia = "06f3928eb3fad870c9197c68c238dbd3" # API key
+  #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+  description = "刘征的博客|DevOps|Cloud Computing"
+  errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
+
+[[Params.bigimg]]
+  src = "/images/header-img1.jpg"
+  desc = "Fly to cloud"
+[[Params.bigimg]]
+  src = "/images/header-img2.jpg"
+  desc = "Walk your way"
+[[Params.bigimg]]
+  src = "/images/sandra li-1.JPG"
+  desc = "国家剧院/SandraLi"
+
+[Author]
+  name = "Martin Liu"
+  website = "martinliu.cn"
+  email = "67120666@qq.com"
+  #facebook = "username"
+  googleplus = "+MartinLiu-cn" # or xxxxxxxxxxxxxxxxxxxxx
+#  github = "username"
+#  gitlab = "username"
+  twitter = "martinliu"
+#  reddit = "username"
+  linkedin = "liuzheng"
+
+[permalinks]
+  post = "/:year/:month/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Book"
+    url = "https://handbook.martinliu.cn"
+    weight = 4

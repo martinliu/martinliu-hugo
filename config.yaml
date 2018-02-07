@@ -1,0 +1,17 @@
+---
+baseurl: "https://martinliu.cn/"
+DefaultContentLanguage: "zh-cn"
+hasCJKLanguage: true
+languageCode: "zh-cn"
+title: "Martin Liu's Blog" 
+theme: "beautifulhugo"
+metaDataFormat: "yaml"
+subtitle: "I am a runner, blogger and open source funs"
+dateFormat: "2006, January 2"
+description: "DevOps and Cloud"
+algolia:
+  index: "martinliu_blog"
+  key: "06f3928eb3fad870c9197c68c238dbd3"
+  appID: "3RK9W7WH5R"
+---
+
