@@ -17,7 +17,7 @@ wordpress_id: 53732
 
 今天是红帽服务团队深圳Bootcamp的最后一天，我是最后一个session的演讲者，讲的内容是补丁管理，这是个老生常谈的话题，看看我怎么构思和解读的。
 
-[su_button url="http://cdn1.martinliu.cn/wp-content/uploads/2015/06/Patch-Management.pdf" target="blank" style="stroked" size="2" icon="icon: cloud-download"]PPT下载在这里[/su_button]
+[su_button url="http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/Patch-Management.pdf" target="blank" style="stroked" size="2" icon="icon: cloud-download"]PPT下载在这里[/su_button]
 
 主要思路还是把目前的相关知识梳理一边。特别是借鉴了公司安全大师Shawn的一些内容。
 

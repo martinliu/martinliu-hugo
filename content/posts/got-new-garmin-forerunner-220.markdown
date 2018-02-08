@@ -22,11 +22,11 @@ wordpress_id: 53089
 ## forerunner 220 开箱测试
 
 
-[![Snip20140912_1](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_1.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_1.png)
+[![Snip20140912_1](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_1.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_1.png)
 
 开箱之后，手表本身有70%多的电，上手到公司门口，试试搜星的速度，在原地不动的情况下，由于是首次搜星，而且需要在搜星的过程中同步设置手表时钟。基本上花了大约3~5分钟的时间。公司门口在有十几层高的楼宇，应该会影响大搜星的速度。下面是绕公司楼一周的路线图。
 
-[![Snip20140912_3](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_3.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_3.png)
+[![Snip20140912_3](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_3.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_3.png)
 
 从图中可以看到路线的左下角还是有一定的偏差。
 
@@ -43,7 +43,7 @@ Garmin Connect的网站奇慢无比，主要是由于，该网址里使用了goo
 
 有了Garmin Express这个客户端程序就可以避免使用网站了。而且它能自动检查手表的链接状态，USB口一旦插上设备，不管手表里面有几条记录，基本上，几秒钟就能够同步完成。
 
-[![Snip20140818_1](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140818_1-1024x739.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140818_1.png) [![Snip20140818_2](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140818_2.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140818_2.png)
+[![Snip20140818_1](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140818_1-1024x739.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140818_1.png) [![Snip20140818_2](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140818_2.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140818_2.png)
 
 
 
@@ -55,7 +55,7 @@ Garmin Connect的网站奇慢无比，主要是由于，该网址里使用了goo
 
 Forerunner 220可以和手机通过蓝牙通信，只要手表和手机配对成功之后，手机上的Garmin Connect App立刻开始数据同步。同步到app的数据直接上传到网站上。
 
-[![pair-mobile](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/pair-mobile-200x300.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/pair-mobile.png) [![auto-upload-activity](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/auto-upload-activity-200x300.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/auto-upload-activity.png)
+[![pair-mobile](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/pair-mobile-200x300.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/pair-mobile.png) [![auto-upload-activity](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/auto-upload-activity-200x300.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/auto-upload-activity.png)
 
 这种方式是空前的爽，根本不需要使用电脑，也不需要在链接什么USB联线。上传完毕之后在稍微编辑一下标题、路线和分类，基本上这个记录下次在网页上看就非常有意义了。
 
@@ -65,13 +65,13 @@ Forerunner 220可以和手机通过蓝牙通信，只要手表和手机配对成
 
 首先，需要在Garmin Connect网站里面选择一个训练计划，激活训练计划的时候需要设定开始和结束时间，不管时间长短，它都会按照训练目标，自动设定每天的训练内容。
 
-[![全马训练计划](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_4-1024x566.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_4.png)
+[![全马训练计划](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_4-1024x566.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_4.png)
 
 有了这个计划之后，就可以在日历上看到实际上每天的训练安排了；如果愿意的话应该可以同时安排多个训练计划，训练计划可以一个接一个排满全年。加入一年跑两个全马，或者多个的话，就可以提前一次性安排好一年的训练计划。
 
 在日历页面里，点击发送到设备，网页就会调用Garmin Express，Garmin Express打开之后，它就会把网站日历上的所有训练计划条目都下载到手表里面。下载完毕之后，就可以在手表的Training - Training Calendar里面上下浏览每天的训练条目了。
 
-[![Snip20140912_2](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_2-1024x566.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_2.png)
+[![Snip20140912_2](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_2-1024x566.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_2.png)
 
 
 ## 执行一项计划的训练内容
@@ -123,7 +123,7 @@ W11D5a-Easy Run 2 Steps
 
 搜星速度没有预想的那么快，但是在操场上确实够快，不过比Rorerunner 10的速度快多了。连接之前买的200多的心率带，没有成功，并不像网上说的：随便那一条就可以配对成功。不过用了一段时间心率带后，现在想想，真的是个鸡肋功能，有一条即可，需要测了，连接手机测几次即可。这也是我下决心买220无心率带版本的原因。分析下来，620比220多的那些数据和功能，都是通过心率分析出来的；由于现在我彻底不关系心率了，因此，所有和心率相关的东西都变得苍白了。就这样我只用了一个小时就下单220了。在天猫Garmin专卖店1390下单，居然不到24小时就收到货了。顺丰真是神速，24小时内就把货从杭州送达。价格方面赶上暑假减价100。[http://detail.tmall.com/item.htm?id=37128865969](http://detail.tmall.com/item.htm?id=37128865969)
 
-[![Snip20140912_5](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_5.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/09/Snip20140912_5.png)
+[![Snip20140912_5](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_5.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/09/Snip20140912_5.png)
 
 
 

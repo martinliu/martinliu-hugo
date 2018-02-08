@@ -19,11 +19,11 @@ wordpress_id: 52905
 
 <!--more-->
 
-![6900](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/6900.jpg)
+![6900](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/6900.jpg)
 
 GW-6900 表的样子就是如上图，比较经典的三眼设计。网上评价说：表盘偏大不适合手腕细者、表颜色发亮。到手拆箱试戴后，这两个疑虑都统统打消了。
 
-[![IMG_0262](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/IMG_0262-1024x768.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/IMG_0262.jpg)
+[![IMG_0262](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/IMG_0262-1024x768.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/IMG_0262.jpg)
 
 
 

@@ -20,7 +20,7 @@ wordpress_id: 53753
 
 Katello的系统架构如下图：
 
-![katello-arch-diagram](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/katello-arch-diagram.png)
+![katello-arch-diagram](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/katello-arch-diagram.png)
 
 Katell系统是一个复合型开源项目，是Pulp, Candlepin 和 Foreman的组合。Foreman默认使用Puppet作配置管理。
 
@@ -28,7 +28,7 @@ Katell系统是一个复合型开源项目，是Pulp, Candlepin 和 Foreman的�
 
 为了简化安装，请下在本站提供的CentOS7完美安装模板。使用它来创建一个虚拟机，6GB内存，2VCPU；网络上为了方便，请在virt-manger中新建如下所示的网络。
 
-![QEMU-KVM Connection Details_006](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/QEMU-KVM-Connection-Details_006.png)
+![QEMU-KVM Connection Details_006](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/QEMU-KVM-Connection-Details_006.png)
 
 虚拟机启动之后，确保host能正常联网。启动刚才创建的虚拟机，配置好IP，ping 外网网站，确保它能正常联网即可。其它安装命令如下：
 

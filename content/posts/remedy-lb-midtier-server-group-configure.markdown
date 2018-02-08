@@ -18,7 +18,7 @@ url: /2010/08/09/remedy-lb-midtier-server-group-configure/
 wordpress_id: 50734
 ---
 
-[![](http://cdn1.martinliu.cn/wp-content/uploads/2010/08/RemedyITSMArch-253x300.jpg)](http://martinliu.cn/2010/08/remedy-lb-midtier-server-group-configure.html/remedyitsmarch)上图为大型用户环境下Remedy ITSM的部署架构，作为本安装步骤参考模型。所不同的是，如下配置步骤只应用了一个最上面的负载均衡器，每个Web对应连接一个ARS服务器，简化掉了中间放在ARS前的负载均衡器。
+[![](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2010/08/RemedyITSMArch-253x300.jpg)](http://martinliu.cn/2010/08/remedy-lb-midtier-server-group-configure.html/remedyitsmarch)上图为大型用户环境下Remedy ITSM的部署架构，作为本安装步骤参考模型。所不同的是，如下配置步骤只应用了一个最上面的负载均衡器，每个Web对应连接一个ARS服务器，简化掉了中间放在ARS前的负载均衡器。
 
 **第一步** 安装前的准备工作。
 确定Remedy ARS的服务别名，例如“AtriumCMDB”。在所有的Web服务器（Mid-tier所安装的服务器）的host文件中加入一条Ip地址解析，例如：

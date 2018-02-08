@@ -16,7 +16,7 @@ wordpress_id: 52991
 ## 当前的电脑
 
 
-![关于本机](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/关于本机.jpg)
+![关于本机](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/关于本机.jpg)
 
 我现在用的MacBook Pro是3年前买的，更新到8GB内存，500GB 普通硬盘，不得不说，除了充电器两头电线用到掉皮，里面的电线裸露之外，这台电脑还是我用过的做长时间，并且性能和质感保持最佳的电脑。这是一台BYOD的设备。
 
@@ -26,7 +26,7 @@ wordpress_id: 52991
 ## 想入手的MacBook Air
 
 
-![Snip20140702_1](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/Snip20140702_1.png)
+![Snip20140702_1](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/Snip20140702_1.png)
 
 刚才在苹果香港store看了一下，觉得MacBook Air性价比应该合适入手了：
 
@@ -56,6 +56,6 @@ wordpress_id: 52991
 ## 关于存储
 
 
-[![关于本机 2](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/关于本机-2.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/关于本机-2.jpg)
+[![关于本机 2](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/关于本机-2.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/关于本机-2.jpg)
 
 我的多媒体文件在整个硬盘上占到将近一半，甚至超过了操作系统和应用软件和数据文件的总和。因此加入我买新本的话，上面应该不会导入这么大批的文件，照片什么的应该会用这台老机器存储。这台机器上的空间，应该至少还能用两年。但是，估计以后就全都导入到云里面了，百度云基本上都是给TB基本的可用空间。

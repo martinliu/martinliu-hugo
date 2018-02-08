@@ -18,7 +18,7 @@ wordpress_id: 52563
 
 迪斯尼是一个有魔力的组织，在它的电影里冤家可以变伙伴。甚至CloudStack和OpenStack两大私有云死对头来到迪斯尼这个神奇的地方也可以“在一起”。当迪斯尼决定建设自己的云计算基础设施时，与很多企业一样面临一个艰难的抉择，从众多云计算技术方案和产品中选择一条道路。如今的云计算市场规模已 达数百亿美元，水已经很深，领头的是亚马逊这样的公共云巨头，以及亚马逊的对手们：Rackspace、Google、CloudStack、 Eucalyptus、OpenNebula等多种私有云和公共云技术与服务，每家都有绝活和独到之处。<!--more-->
 
-[![disney-cloudstack](http://cdn1.martinliu.cn/wp-content/uploads/2013/09/disney-cloudstack.png)](http://cdn1.martinliu.cn/wp-content/uploads/2013/09/disney-cloudstack.png)
+[![disney-cloudstack](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/09/disney-cloudstack.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/09/disney-cloudstack.png)
 
 对于身价上千亿美元的娱乐和媒体巨头迪斯尼来说，业界可供选择的云计算路线太多，到底是走公共云、私有云、混合云还是多重云的路子？
 

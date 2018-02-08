@@ -16,11 +16,11 @@ wordpress_id: 53719
 
 下面是随手的几个截图。
 
-[![ss01](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/ss01-1024x576.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/ss01.jpg)
+[![ss01](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/ss01-1024x576.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/ss01.jpg)
 
-[![ss02](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/ss02-1024x576.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/ss02.jpg)
+[![ss02](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/ss02-1024x576.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/ss02.jpg)
 
-[![2015-05-28 23-28-49 的屏幕截图](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/2015-05-28-23-28-49-的屏幕截图1-1024x576.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/2015-05-28-23-28-49-的屏幕截图1.png)
+[![2015-05-28 23-28-49 的屏幕截图](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/2015-05-28-23-28-49-的屏幕截图1-1024x576.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/2015-05-28-23-28-49-的屏幕截图1.png)
 
 一部分F22新功能评测在这里[ http://fedoramagazine.org/whats-new-fedora-22-workstation/](http://fedoramagazine.org/whats-new-fedora-22-workstation/)
 

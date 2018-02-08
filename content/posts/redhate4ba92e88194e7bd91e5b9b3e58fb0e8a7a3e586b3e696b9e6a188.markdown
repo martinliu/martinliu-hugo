@@ -22,7 +22,7 @@ AS深圳2014演讲PPT最终稿  [http://pan.baidu.com/s/1i3KQFRJ](http://pan.ba
 QCon北京2015（PPT） [http://pan.baidu.com/s/1sj2t1yl](http://pan.baidu.com/s/1sj2t1yl)
 这两个目录里面干货还是不少，可以下载了慢慢看。
 
-[![redhat-sulution](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/redhat-sulution.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/redhat-sulution.jpg)
+[![redhat-sulution](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/redhat-sulution.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/redhat-sulution.jpg)
 
 学习了一写文档后，逐渐对互联网公司的架构挑战需求和现状有了一些了解。下面先聊下这方面的一些理解。
 
@@ -78,7 +78,7 @@ BAT用到的开源技术真的是不甚枚举，也没有必要逐一分析。�
 
 那么红帽的互联网平台解决方案是什么？红帽的定位是基础架构技术厂商，因此红帽的全套技术框架就是它的互联网解决方案。如下图所示。
 
-[![Red-Hat-open-hybrid-cloud-1000x563_0](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/Red-Hat-open-hybrid-cloud-1000x563_0.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/Red-Hat-open-hybrid-cloud-1000x563_0.png)
+[![Red-Hat-open-hybrid-cloud-1000x563_0](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/Red-Hat-open-hybrid-cloud-1000x563_0.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/Red-Hat-open-hybrid-cloud-1000x563_0.png)
 
 有些产品模块需要稍微说明一下，方便和开源项目对应起来。
 

@@ -56,7 +56,7 @@ $config['site']['language'] = 'zh_CN';
 [/php]
 
 The final step, you login statusnet as administrator and go to /admin/site. Then you will select your language from dropdown list. I spend a few days to fix this problem. Just today, I realized my problem is Ubuntu linux server does not have Chinese Language pack yet. Show you my art as below :)
-[![如何配置statusnet默认为中文界面](http://cdn1.martinliu.cn/wp-content/uploads/2011/03/statusnetzhcn-300x152.jpg)](http://martinliu.cn/2011/03/how-to-configure-statusnet-default-language.html/statusnetzhcn)
+[![如何配置statusnet默认为中文界面](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2011/03/statusnetzhcn-300x152.jpg)](http://martinliu.cn/2011/03/how-to-configure-statusnet-default-language.html/statusnetzhcn)
 
 如何在Ubuntu上配置statusnet默认为中文界面
 1）安装中文语言包

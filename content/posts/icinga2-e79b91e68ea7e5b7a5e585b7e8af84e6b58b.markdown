@@ -23,7 +23,7 @@ wordpress_id: 53788
 
 请下载和查看这个icinga2官方的文档：[su_button url="http://pan.baidu.com/s/1qW3JkJE" target="blank" style="stroked" background="#cccc00" size="6" icon="icon: cubes"]下载点这里[/su_button]
 
-[![Selection_001](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/Selection_001-1024x542.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/Selection_001.png)
+[![Selection_001](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/Selection_001-1024x542.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/Selection_001.png)
 
 为什么用icinga，原因如下：
 

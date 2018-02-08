@@ -14,7 +14,7 @@ wordpress_id: 52879
 
 当静下心来读书成为一个奢望，我们还是能通过其它的方式来亲近书籍，感受另外一种听书的方式。推荐下面这个听书Podcast，他们读的书还是挺吸引人的。
 
-[caption id="attachment_52878" align="alignnone" width="967"]![一个人的书房](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/Snip20140616_7.png) 一个人的书房[/caption]
+[caption id="attachment_52878" align="alignnone" width="967"]![一个人的书房](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/Snip20140616_7.png) 一个人的书房[/caption]
 
 他们的书单：《搭车去柏林》《巨流河》《断舍离》《流波上的舞》《追风筝的人》《安妮日记》《冬牧场》《生死的幻觉》《梦里花落知多少》
 
@@ -22,6 +22,6 @@ wordpress_id: 52879
 
 iPhone上收听地址：[https://itunes.apple.com/cn/podcast/yi-ge-ren-de-shu-fang/id612325017?mt=2#](https://itunes.apple.com/cn/podcast/yi-ge-ren-de-shu-fang/id612325017?mt=2#)
 
-![podcast](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/podcast-576x1024.png)
+![podcast](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/podcast-576x1024.png)
 
 

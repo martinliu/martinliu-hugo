@@ -12,4 +12,4 @@ url: /2015/12/29/nino-rota-main-title-the-godfather-waltz/
 wordpress_id: 54068
 ---
 
-[wm_audio] [audio mp3="http://cdn1.martinliu.cn/wp-content/uploads/2015/12/Nino-Rota-Main-Title-The-Godfather-Waltz.mp3"][/audio]
+[wm_audio] [audio mp3="http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/12/Nino-Rota-Main-Title-The-Godfather-Waltz.mp3"][/audio]

@@ -13,7 +13,7 @@ url: /2013/12/21/garmin-fr620-e7acace4ba8ce59d97e8b791e6ada5e6898be8a1a8e79baee6
 wordpress_id: 52630
 ---
 
-[![cf-lg](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/cf-lg.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/cf-lg.jpg)
+[![cf-lg](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/cf-lg.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/cf-lg.jpg)
 
 Garmin ForRunner 620
 
@@ -29,7 +29,7 @@ Garmin ForRunner 620
 支援Recovery Advisor
 支援VO2 max estimate
 
-[![cf-lg888](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/cf-lg888.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/cf-lg888.jpg)
+[![cf-lg888](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/cf-lg888.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/cf-lg888.jpg)
 
 Garmin ForRunner 220
 

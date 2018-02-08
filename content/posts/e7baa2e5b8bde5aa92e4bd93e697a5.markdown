@@ -79,6 +79,6 @@ View Additional Information
 </tr>
 </tbody>
 </table>
-我做了Pual这一段的翻译，翻译的文档下载点这里：[RH_Summit_Analyst_Day_Master_20150714_MartinLiu](http://cdn1.martinliu.cn/wp-content/uploads/2015/07/RH_Summit_Analyst_Day_Master_20150714_MartinLiu.pdf)
+我做了Pual这一段的翻译，翻译的文档下载点这里：[RH_Summit_Analyst_Day_Master_20150714_MartinLiu](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/07/RH_Summit_Analyst_Day_Master_20150714_MartinLiu.pdf)
 
 

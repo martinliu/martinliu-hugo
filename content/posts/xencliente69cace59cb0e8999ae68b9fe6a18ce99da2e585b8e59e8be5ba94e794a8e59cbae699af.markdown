@@ -16,7 +16,7 @@ url: /2013/08/15/xencliente69cace59cb0e8999ae68b9fe6a18ce99da2e585b8e59e8be5ba94
 wordpress_id: 52538
 ---
 
-[![6-xenclient-usercase](http://cdn1.martinliu.cn/wp-content/uploads/2013/08/6-xenclient-usercase.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/08/6-xenclient-usercase.jpg)
+[![6-xenclient-usercase](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/08/6-xenclient-usercase.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/08/6-xenclient-usercase.jpg)
 
 
 

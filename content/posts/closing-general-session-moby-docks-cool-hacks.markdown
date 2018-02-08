@@ -51,7 +51,7 @@ Ben 是大家在 Docker 大会喜闻乐见的一个黑客，他经常给做 demo
 
 
 
-![40906 (1)](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/40906-1.jpeg)
+![40906 (1)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/40906-1.jpeg)
 
 
 
@@ -61,7 +61,7 @@ Ben 开讲，Serverless 是如何做的？ben 认为 Serverless 是一种全新�
 
 
 
-![2](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/2-1.jpg)
+![2](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/2-1.jpg)
 
 
 
@@ -106,17 +106,17 @@ Ben 说：我们在这demo 了 serverless  应用的改造的过程，可以看
 
 
 
-![3](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/3-1.jpg)
+![3](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/3-1.jpg)
 
 
 
 
-![4](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/4.jpg)
+![4](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/4.jpg)
 
 
 
 
-![5](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/5.jpg)
+![5](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/5.jpg)
 
 
 
@@ -131,12 +131,12 @@ Ben 说：我们在这demo 了 serverless  应用的改造的过程，可以看
 
 
 
-![6](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/6.jpg)
+![6](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/6.jpg)
 
 
 
 
-![1](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/1-1.jpg)
+![1](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/1-1.jpg)
 
 
 
@@ -146,7 +146,7 @@ Ben 说：我们在这demo 了 serverless  应用的改造的过程，可以看
 
 
 
-![6.1](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/6.1.jpg)
+![6.1](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/6.1.jpg)
 
 
 
@@ -167,7 +167,7 @@ Ben 说：我们在这demo 了 serverless  应用的改造的过程，可以看
 
 主此人再次上台启动了黑客大赛。
 
-![7](http://cdn1.martinliu.cn/wp-content/uploads/2016/06/7.jpg)
+![7](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2016/06/7.jpg)
 
 
 为期一个月的 hackathon 正式开始。

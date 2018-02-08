@@ -16,15 +16,15 @@ wordpress_id: 53597
 
 这种方法论的东西很久不感冒了，可是这次耐心看了一下，确实有温故而知新的作用，有点意思，特此推荐一下。
 
-![impact-mapping](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/impact-mapping.jpg)
+![impact-mapping](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/impact-mapping.jpg)
 
 这个方法论的网站在：[http://www.impactmapping.org/](http://www.impactmapping.org/)
 
-![impact-mapping-1](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/impact-mapping-1.jpg)
+![impact-mapping-1](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/impact-mapping-1.jpg)
 
 上图是此方法分析的思路。网上搜索了一下，多看到很多介绍敏捷方法的网站在推荐。下图是次方法的宣传海报。
 
-[![poster_im_print_1500](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/poster_im_print_1500-1024x673.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/poster_im_print_1500.jpg)
+[![poster_im_print_1500](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/poster_im_print_1500-1024x673.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/poster_im_print_1500.jpg)
 
 这里还从YouTube上搬运回来一个视频，可以参考一下。
 

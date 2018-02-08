@@ -12,7 +12,7 @@ url: /2010/09/15/open-source-software-box-dot-net-lunch/
 wordpress_id: 50802
 ---
 
-[![](http://cdn1.martinliu.cn/wp-content/uploads/2010/09/cardboard-box-open-lg.jpg)](http://martinliu.cn/2010/09/open-source-software-box-dot-net-lunch.html/cardboard-box-open-lg/)
+[![](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2010/09/cardboard-box-open-lg.jpg)](http://martinliu.cn/2010/09/open-source-software-box-dot-net-lunch.html/cardboard-box-open-lg/)
 
 My another new domain name [ossbox.net](http://ossbox.net/) is launching. This site will move into as soon as martinliu.cn could be finally blocked due to IDC domain registration process failed.
 

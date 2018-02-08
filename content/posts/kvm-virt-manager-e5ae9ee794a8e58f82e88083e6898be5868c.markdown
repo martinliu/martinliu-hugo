@@ -18,7 +18,7 @@ wordpress_id: 53367
 
 Virt Manager 是一个不错的kvm虚拟机管理工具，能够方便地管理虚拟机。我的测试机目前已经完全转向RHEL7上跑KVM虚拟机，通过virt-manager去管理的方案。
 
-[![topbar_logo](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/topbar_logo.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/topbar_logo.png)
+[![topbar_logo](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/topbar_logo.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/topbar_logo.png)
 
 安装virt-manager：yum install -y virt-* ； 装完之后重新启动机器即可使用。
 

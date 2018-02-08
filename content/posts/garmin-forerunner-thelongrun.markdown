@@ -16,4 +16,4 @@ url: /2013/12/21/garmin-forerunner-thelongrun/
 wordpress_id: 52658
 ---
 
-http://cdn1.martinliu.cn/wp-content/uploads/2014/02/Garmin-AD-TheLongRun-Forerunner-220-and-620.mp4
+http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/Garmin-AD-TheLongRun-Forerunner-220-and-620.mp4

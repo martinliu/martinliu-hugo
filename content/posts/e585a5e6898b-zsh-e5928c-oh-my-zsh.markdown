@@ -15,7 +15,7 @@ url: /2015/03/23/e585a5e6898b-zsh-e5928c-oh-my-zsh/
 wordpress_id: 53605
 ---
 
-![zsh](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/zsh.gif)
+![zsh](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/zsh.gif)
 
 安装zsh在任何系统上几乎都是差不多。Zsh 是一款功能强大的交互式 shell，与 Bash 相比，Zsh 下面几点表现令人印象深刻：
 
@@ -66,7 +66,7 @@ anaconda-ks.cfg Desktop Documents Downloads initial-setup-ks.cfg ist Music Pictu
 
 下面是装完之后的截图，以后我的测试机的默认shell应该都是这个样子了：）
 
-[![rhel7-zsh-ohmyzsh](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/rhel7-zsh-ohmyzsh.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/rhel7-zsh-ohmyzsh.jpg)
+[![rhel7-zsh-ohmyzsh](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/rhel7-zsh-ohmyzsh.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/rhel7-zsh-ohmyzsh.jpg)
 
 zsh的功能还是比较强大的，然后再加上ohmyzsh这套配置参数文件和工具插件，shell下地工作效率应该可以提高了。下面是一下参考网站：
 
@@ -88,4 +88,4 @@ zsh的功能还是比较强大的，然后再加上ohmyzsh这套配置参数文�
 
 Mac OS X用户则建议实用iTerm2来替换原声的terminal。下载item2在这里：[http://iterm2.com/](http://iterm2.com/)
 
-[![iterm2-logo](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/iterm2-logo.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/iterm2-logo.jpg)
+[![iterm2-logo](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/iterm2-logo.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/iterm2-logo.jpg)

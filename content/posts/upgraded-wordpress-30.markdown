@@ -12,7 +12,7 @@ url: /2010/06/20/upgraded-wordpress-30/
 wordpress_id: 50655
 ---
 
-[![wp3.0](http://cdn1.martinliu.cn/wp-content/uploads/2010/06/wp3.0.png)](http://cdn1.martinliu.cn/wp-content/uploads/2010/06/wp3.0.png)
+[![wp3.0](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2010/06/wp3.0.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2010/06/wp3.0.png)
 
 
 

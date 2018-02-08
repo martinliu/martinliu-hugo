@@ -21,7 +21,7 @@ wordpress_id: 50941
 
 Information about customer needs, the technical composition of  services, and service performance are fundamental to effective service  management.  Service modelling is a structured approach to utilizing  this information to improve the way services are delivered.  Consistent  application of service modelling provides the automation of processes  and timely access to information.
 
-[caption id="attachment_50942" align="alignleft" width="201" caption="Service Modelling: Principles and Applications "][![Service Modelling: Principles and Applications ](http://cdn1.martinliu.cn/wp-content/uploads/2011/02/couverture_OKLWOOARSOLOWB-201x300.jpg)](http://martinliu.cn/2011/02/book-service-modelling.html/couverture_oklwooarsolowb)[/caption]
+[caption id="attachment_50942" align="alignleft" width="201" caption="Service Modelling: Principles and Applications "][![Service Modelling: Principles and Applications ](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2011/02/couverture_OKLWOOARSOLOWB-201x300.jpg)](http://martinliu.cn/2011/02/book-service-modelling.html/couverture_oklwooarsolowb)[/caption]
 
 _Service Modelling_ presents a comprehensive, up-to-date overview of the topic, presented  in the context both of business processes, and of requirements stemming  from the need to manage network resources. Vilho Räisänen delivers a  justification for service modelling, and explains state-of-the-art  concepts, frameworks and standards in detail.
 

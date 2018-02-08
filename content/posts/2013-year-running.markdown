@@ -18,11 +18,11 @@ wordpress_id: 52609
 
  <!--more-->
 
-[![psb](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/psb.png)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/psb.png)所有跑步地点的地理分布如下： [![map](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/map-300x186.png)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/map.png) 从跑步成绩方面还取得了一些个人记录： [![records](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/records.png)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/records.png)这些记录是由我的GPS跑步手表记录的。所有的数据都上传到Garmin Connect网站上，数据还算比较准确。 [![gps](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/gps-261x300.jpeg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/gps.jpeg) 这块表的功能比较简单，能记录跑步的轨迹、速度等等，可以存储最好个人记录，和7个最近的跑步活动。还算是比较实用，带着它我跑完了人生第一个半程马拉松。
+[![psb](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/psb.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/psb.png)所有跑步地点的地理分布如下： [![map](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/map-300x186.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/map.png) 从跑步成绩方面还取得了一些个人记录： [![records](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/records.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/records.png)这些记录是由我的GPS跑步手表记录的。所有的数据都上传到Garmin Connect网站上，数据还算比较准确。 [![gps](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/gps-261x300.jpeg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/gps.jpeg) 这块表的功能比较简单，能记录跑步的轨迹、速度等等，可以存储最好个人记录，和7个最近的跑步活动。还算是比较实用，带着它我跑完了人生第一个半程马拉松。
 
-[![cert](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/cert.jpeg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/cert.jpeg)[![Martin-苏州金鸡湖半程马拉松-路线图](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/Martin-苏州金鸡湖半程马拉松-路线图.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/Martin-苏州金鸡湖半程马拉松-路线图.jpg)
+[![cert](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/cert.jpeg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/cert.jpeg)[![Martin-苏州金鸡湖半程马拉松-路线图](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Martin-苏州金鸡湖半程马拉松-路线图.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/Martin-苏州金鸡湖半程马拉松-路线图.jpg)
 
-让我跑的最爽的几个地方是：北京奥林匹克森林公园、新加坡的Gardon by the bay 温室植物园、崇礼的草原天堂之路、沈阳的浑河畔、新奥尔良密西西比河畔等等。 由于我热衷于晨跑，当你迎着朝阳，挥汗如雨、在吸收正能量的过程中；你能领略到别人无法想象的景色，这些美景都深深的留在了脑海里。[![comb](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/comb.jpeg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/comb.jpeg)
+让我跑的最爽的几个地方是：北京奥林匹克森林公园、新加坡的Gardon by the bay 温室植物园、崇礼的草原天堂之路、沈阳的浑河畔、新奥尔良密西西比河畔等等。 由于我热衷于晨跑，当你迎着朝阳，挥汗如雨、在吸收正能量的过程中；你能领略到别人无法想象的景色，这些美景都深深的留在了脑海里。[![comb](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/comb.jpeg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/comb.jpeg)
 
 
 
@@ -43,4 +43,4 @@ wordpress_id: 52609
   * 下右：在美国新奥尔良的密西西比河河畔，和同事们一起跑可谓是人生的一大乐事，其实需要感谢我的所有跑友们，他们是跑步乐趣的催化剂，无限低放大了跑步的乐趣，能给我更多跑步的理由，我们的跑步微信群是大家参与度极高的圈子，每个人的日常跑步作业都在上面实时发布。
 
 
-最开心的还是看着两岁多的宝宝能一天天的长大，跑步是唯一的让我与她拉近时间和空间距离的方法。我已经无法停止跑下去的步伐。 [![baby](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/baby.jpeg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/12/baby.jpeg)
+最开心的还是看着两岁多的宝宝能一天天的长大，跑步是唯一的让我与她拉近时间和空间距离的方法。我已经无法停止跑下去的步伐。 [![baby](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/baby.jpeg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/12/baby.jpeg)

@@ -13,7 +13,7 @@ wordpress_id: 53805
 ---
 
 时差如期而至，现在时本地时间清晨3：40，我还是一点睡意也没用，百无聊赖中计划一下明天的跑步路线。根据Boston的Garmin的热力地图，我观察了一下Clarles河附近的跑步路线，看着很不错。计划明天早晨跑右侧的这一部分。如下图所示。
-[![boston-charles-river-right-side](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/boston-charles-river-right-side-1024x559.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/boston-charles-river-right-side.jpg)
+[![boston-charles-river-right-side](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/boston-charles-river-right-side-1024x559.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/boston-charles-river-right-side.jpg)
 
 
 
@@ -57,7 +57,7 @@ wordpress_id: 53805
 
 跑步的实际路线图和数据贴图如下。
 
-[![psb](http://cdn1.martinliu.cn/wp-content/uploads/2015/06/psb.jpeg)](http://martinliu.cn/boston-running-1-charles-river/psb-2/)
+[![psb](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/06/psb.jpeg)](http://martinliu.cn/boston-running-1-charles-river/psb-2/)
 
 
 

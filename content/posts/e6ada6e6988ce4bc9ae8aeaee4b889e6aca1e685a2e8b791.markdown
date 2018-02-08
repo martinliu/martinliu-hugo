@@ -32,4 +32,4 @@ wordpress_id: 52983
 
 [/su_list]
 
-[![Snip20140701_74](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/Snip20140701_74.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/Snip20140701_74.png)
+[![Snip20140701_74](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/Snip20140701_74.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/Snip20140701_74.png)

@@ -15,7 +15,7 @@ wordpress_id: 50631
 
 下面是我在过去ITSM项目实施中的一些经验和体会：
 
-[ITSM_implement best practice](http://cdn1.martinliu.cn/wp-content/uploads/2010/06/ITSM_implement.swf)
+[ITSM_implement best practice](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2010/06/ITSM_implement.swf)
 
 [下载](http://www.box.net/shared/rld8smakt1)
 

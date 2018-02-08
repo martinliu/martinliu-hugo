@@ -19,7 +19,7 @@ wordpress_id: 52743
 
 群的地址： [http://connect.garmin.com/group/514228](http://connect.garmin.com/group/514228) ；
 
-[![Being-LSD-Group](http://cdn1.martinliu.cn/wp-content/uploads/2014/01/Being-LSD-Group.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/01/Being-LSD-Group.png)
+[![Being-LSD-Group](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/Being-LSD-Group.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/01/Being-LSD-Group.png)
 
 
 

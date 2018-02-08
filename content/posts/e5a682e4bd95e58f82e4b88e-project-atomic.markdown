@@ -23,7 +23,7 @@ wordpress_id: 53583
 ## 关于 Project Atomic 项目
 
 
-[![secure-containers](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/secure-containers.png)](http://www.projectatomic.io/)
+[![secure-containers](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/secure-containers.png)](http://www.projectatomic.io/)
 
 Project Atomic 项目相关的开源技术组件如下：
 
@@ -68,7 +68,7 @@ Project Atomic 项目相关的开源技术组件如下：
 
 填写自己的邮箱后，别忘了在邮箱里收信，并且确认。如下图所示：
 
-[![atomic-dev-mail-list](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/atomic-dev-mail-list.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/atomic-dev-mail-list.jpg)
+[![atomic-dev-mail-list](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/atomic-dev-mail-list.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/atomic-dev-mail-list.jpg)
 
 
 ## 问  Project Atomic 问题和讨论

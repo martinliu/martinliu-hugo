@@ -23,7 +23,7 @@ url: /2014/02/10/e4ba8ecitrix-25e591a8e5b9b4e79a84e69585e4ba8b-imagination-innov
 wordpress_id: 52802
 ---
 
-[video width="640" height="360" mp4="http://cdn1.martinliu.cn/wp-content/uploads/2014/02/The-Citrix-Story-25-Years-of-Imagination-Innovation-and-Growth.mp4"][/video]
+[video width="640" height="360" mp4="http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/02/The-Citrix-Story-25-Years-of-Imagination-Innovation-and-Growth.mp4"][/video]
 
 以上视频从YouTube转载。是Citrix给自己的拍摄的生日礼物。真正的25岁生日那天在今年四月份。下面是维基百科上对Citrix的介绍。
 

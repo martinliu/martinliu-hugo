@@ -13,7 +13,7 @@ url: /2012/12/18/2013e5b9b4e79a84e4ba91e8aea1e7ae97e682a8e58786e5a487e5a5bde4ba8
 wordpress_id: 52219
 ---
 
-[![cropped-Cloud1.jpg](http://cdn1.martinliu.cn/wp-content/uploads/2012/06/cropped-Cloud1-300x60.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2012/06/cropped-Cloud1.jpg)
+[![cropped-Cloud1.jpg](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2012/06/cropped-Cloud1-300x60.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2012/06/cropped-Cloud1.jpg)
 
 [Getting Ready for Cloud Computing 2013](http://www.datamation.com/cloud-computing/getting-ready-for-cloud-computing-2013.html)
 

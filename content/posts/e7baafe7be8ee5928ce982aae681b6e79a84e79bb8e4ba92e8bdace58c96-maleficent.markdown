@@ -13,7 +13,7 @@ url: /2014/06/23/e7baafe7be8ee5928ce982aae681b6e79a84e79bb8e4ba92e8bdace58c96-ma
 wordpress_id: 52928
 ---
 
-[![p2185413955](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/p2185413955-1024x576.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2014/06/p2185413955.jpg)
+[![p2185413955](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/p2185413955-1024x576.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/06/p2185413955.jpg)
 
 导演: [罗伯特·斯特罗姆伯格](http://movie.douban.com/celebrity/1298560/)  
 编剧: [保罗·迪尼](http://movie.douban.com/celebrity/1023174/) / [琳达·伍尔芙顿](http://movie.douban.com/celebrity/1324713/)  

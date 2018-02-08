@@ -16,6 +16,6 @@ wordpress_id: 53242
 
 无意中找到一个新的Wordpress主题 Mustang Lite 作者为[WebMan](http://www.webmandesign.eu/)。安装完之后觉得非常满意，本来这是一个多用途很复杂的主题现在让我给彻底精简了。感觉比较简洁，简洁的主题是我的最爱。
 
-[![screenshot-mustang-16x9](http://cdn1.martinliu.cn/wp-content/uploads/2014/11/screenshot-mustang-16x9-520x289.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/11/screenshot-mustang-16x9.png)
+[![screenshot-mustang-16x9](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/screenshot-mustang-16x9-520x289.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/screenshot-mustang-16x9.png)
 
 Wordpress也升级到最新版本

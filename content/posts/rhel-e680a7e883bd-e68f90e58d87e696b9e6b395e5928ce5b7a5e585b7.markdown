@@ -40,7 +40,7 @@ RHEL 下性能调优的工具有三种。
 #  Performance Co-Pilot 监控工具
 
 
-[caption id="attachment_53397" align="alignnone" width="1000"][![PCP Charts - Overview View](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000449-1000x630.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000449.png) PCP Charts - Overview View[/caption]
+[caption id="attachment_53397" align="alignnone" width="1000"][![PCP Charts - Overview View](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000449-1000x630.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000449.png) PCP Charts - Overview View[/caption]
 
 
 
@@ -79,7 +79,7 @@ $ chkconfig pmlogger on; service pmlogger start
   3. 它默认就是连接到本机，因此加入我们需要查看的性能参数图形即可。点击open view ，选择overview 视图即可。当然，它内置的监控视图还有很多，当然如果你希望，还可以把远程的服务器性能实时状态（点击新建视图）视图也加入进来。其它视图如下图所示。
 
 
-[caption id="attachment_53396" align="alignnone" width="520"][![内置视图](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000611-520x306.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000611.png) 内置监控视图[/caption]
+[caption id="attachment_53396" align="alignnone" width="520"][![内置视图](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000611-520x306.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-11-000611.png) 内置监控视图[/caption]
 
 更多信息求助  man PCPIntro documentation.
 

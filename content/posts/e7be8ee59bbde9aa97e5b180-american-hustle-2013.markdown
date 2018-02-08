@@ -12,7 +12,7 @@ url: /2014/07/05/e7be8ee59bbde9aa97e5b180-american-hustle-2013/
 wordpress_id: 53004
 ---
 
-[![1403098](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/1403098.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2014/07/1403098.jpg)
+[![1403098](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/1403098.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/07/1403098.jpg)
 
 导演: [大卫·欧·拉塞尔](http://movie.douban.com/celebrity/1022739/)  
 编剧: [埃里克·辛格尔](http://movie.douban.com/celebrity/1323406/) / [大卫·欧·拉塞尔](http://movie.douban.com/celebrity/1022739/)  

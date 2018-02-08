@@ -21,7 +21,7 @@ url: /2015/03/08/e4b8bbe69c8de58aa1e599a8e690ade5bbba/
 wordpress_id: 53505
 ---
 
-![Red-Hat-open-hybrid-cloud-1000x563_0](http://cdn1.martinliu.cn/wp-content/uploads/2015/05/Red-Hat-open-hybrid-cloud-1000x563_0.png)
+![Red-Hat-open-hybrid-cloud-1000x563_0](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/05/Red-Hat-open-hybrid-cloud-1000x563_0.png)
 
 上图是红帽产品和技术架构的全貌。来源是：[http://www.redhat.com/en/technologies/cloud-computing](http://www.redhat.com/en/technologies/cloud-computing) 这张图我用在了我的首次给公司内部的全体销售培训上。由于我是IT管理背景的，因此我很习惯从云管理层往下看云引擎的各个层面。但是管理层产品，其实是后来整合纳入的。红帽起家的旗舰产品还是在底层的RHEL。总之，我想在一个Lab里面实现以上所有的部分，所谓实现是让其每个部分都能在运行在假象的一个有意义的业务场景里。还好，红帽的产品全都是基于x86平台的，因此我用几个笔记本，再加上我家里的这台HP MicroServer G8服务器应该能够全部部署出来。
 
@@ -37,7 +37,7 @@ OS : RHEL 7.1
 
 订阅是红帽公司的业务模式，也是红帽认为最自豪的部分，红帽相信可以成为开源技术和用户之间的催化剂，它不断参与最优秀的开源技术创新，并为其用户提供最强有利的技术服务和支持。红帽技术员工可以申请一个红帽雇员订阅。我的订阅可以在网上查到如下图所示：
 
-[![employee-sub](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/employee-sub-520x295.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/employee-sub.png)
+[![employee-sub](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/employee-sub-520x295.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/employee-sub.png)
 
 红帽的服务必须是基于订阅的每一个节点（物理、虚拟）都需要有有效的订阅，否则红帽的支持服务不能生效。对于一个已经成功注册到红帽官网，并且状态正常的服务器，应该显示如下的注册状态：
 

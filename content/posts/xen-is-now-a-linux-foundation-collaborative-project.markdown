@@ -17,10 +17,10 @@ url: /2013/04/23/xen-is-now-a-linux-foundation-collaborative-project/
 wordpress_id: 52361
 ---
 
-[![collab_projects](http://cdn1.martinliu.cn/wp-content/uploads/2013/04/collab_projects.png)](http://cdn1.martinliu.cn/wp-content/uploads/2013/04/collab_projects.png)
+[![collab_projects](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/04/collab_projects.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/04/collab_projects.png)
 
 首先我们来回顾一下历史：
-[![Xen-history](http://cdn1.martinliu.cn/wp-content/uploads/2013/04/Xen-history.png)](http://xenproject.org/about/history.html)
+[![Xen-history](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/04/Xen-history.png)](http://xenproject.org/about/history.html)
 
 上周Citrix把经营和支持多年的开源项目Xen Project加入到了inux Foundation，可以说是Xen Project 的一个新家。可能您还不太了解“Linux Foundation”；访问 [FAQ](http://www.linuxfoundation.org/about/faq) 可获得它的一些基本知识。到目前为止Linux Foundation总共支持了8个开源软件项目。
 <table align="center" border="0" >

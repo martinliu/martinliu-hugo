@@ -15,7 +15,7 @@ MacBook 和Macbook Pro 的$1299相同价位的配置。[http://www.apple.com/mac
 
 不难看出这两个本子，基本就是针对两种不同类型的人群。选择Macbook意味着纯文档处理类型的人；选择Macbook Pro意味着需要更强处理和运算能力的技术人员。颜色上新增了银灰和土豪金。
 
-[![overview_colors_large](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/overview_colors_large-520x316.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/03/overview_colors_large.jpg)
+[![overview_colors_large](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/overview_colors_large-520x316.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/03/overview_colors_large.jpg)
 
 看后我觉得我会选择，土豪金的Macbook，哈哈哈哈~需要考察一下实物才能做这个最后的决定。下面是Apple官网上关于MacBook的设计视频广告，我看完后感觉，电脑作为商品来讲，做广告到这个份上，也就快到头了。
 

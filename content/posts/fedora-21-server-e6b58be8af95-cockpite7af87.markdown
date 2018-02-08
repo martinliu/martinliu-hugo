@@ -19,11 +19,11 @@ wordpress_id: 53428
 
 新的配色还是不错的，重点看第三张图，虽然不全，已经基本上看出F21 服务器版的软件包了。
 
-[![Screenshot from 2015-01-28 00:18:22](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-28-001822-1024x686.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-28-001822.png)
+[![Screenshot from 2015-01-28 00:18:22](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-28-001822-1024x686.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-28-001822.png)
 
 安装之后发现确实Cockpit的界面已经可以登陆了，是黑色的风格。
 
-[![Screenshot from 2015-01-27 23:52:18](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-27-235218-1024x625.png)](http://cdn1.martinliu.cn/wp-content/uploads/2015/01/Screenshot-from-2015-01-27-235218.png)
+[![Screenshot from 2015-01-27 23:52:18](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-27-235218-1024x625.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/01/Screenshot-from-2015-01-27-235218.png)
 
 在继续安装和探索之前，我有装了一个默认选项的f21 server ，想通过这个节点的节目添加后统一管理。
 

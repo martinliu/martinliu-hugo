@@ -58,7 +58,7 @@ wordpress_id: 53276
 
 
 下面是虚拟桌面/应用的基本原理架构图。
-[![xen](http://cdn1.martinliu.cn/wp-content/uploads/2014/11/xen-520x229.png)](http://cdn1.martinliu.cn/wp-content/uploads/2014/11/xen.png)
+[![xen](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/xen-520x229.png)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2014/11/xen.png)
 通过上图可以对虚拟桌面的技术架构一目了然。虚拟桌面基础架构就是在数据中心里面部署的一堆Windows虚拟机，核心就在于让远程用户可以操作使用这些虚拟机里面的应用或者这些虚拟机桌面。鉴于此，核心技术主要有两个方面：Windows操作系统虚拟机的集中发布更新和管理；远程访问协议和所有终端管控策略。
 
 

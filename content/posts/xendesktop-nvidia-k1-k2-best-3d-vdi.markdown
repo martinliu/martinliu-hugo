@@ -20,7 +20,7 @@ wordpress_id: 52549
 今天公司到货了K1，K2的GPU卡，这让我不得不学习一下这个产品。
 
 
-[![grid-overview-header](http://cdn1.martinliu.cn/wp-content/uploads/2013/08/grid-overview-header.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/08/grid-overview-header.jpg)
+[![grid-overview-header](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/08/grid-overview-header.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/08/grid-overview-header.jpg)
 
 
  <!--more-->
@@ -191,7 +191,7 @@ wordpress_id: 52549
 </table>
 
 
-[![NVIDIA_vGPU_News](http://cdn1.martinliu.cn/wp-content/uploads/2013/08/NVIDIA_vGPU_News.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2013/08/NVIDIA_vGPU_News.jpg)
+[![NVIDIA_vGPU_News](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/08/NVIDIA_vGPU_News.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2013/08/NVIDIA_vGPU_News.jpg)
 
 详细 K1 K2 技术参数指标，[ 下载 ； ](http://www.nvidia.com/content/cloud-computing/pdf/nvidia-grid-datasheet-k1-k2.pdf) 这个表格清晰的说明了这两种卡的硬件技术参数。重要的是看它软件合作伙伴这一块。硬件在好，没有支持的软件也不行，我们必须还有看看它的软件合作伙伴：[http://www.nvidia.com/object/grid-software-partners.html](http://www.nvidia.com/object/grid-software-partners.html)
 

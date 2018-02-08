@@ -12,7 +12,7 @@ url: /2015/02/08/e9a5a5e9a5bfe6b8b8e6888f3efbc9ae598b2e7ac91e9b89fe4b88a-hunger-
 wordpress_id: 53469
 ---
 
-[![p2199467907](http://cdn1.martinliu.cn/wp-content/uploads/2015/02/p2199467907.jpg)](http://cdn1.martinliu.cn/wp-content/uploads/2015/02/p2199467907.jpg)
+[![p2199467907](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/02/p2199467907.jpg)](http://7bv9gn.com1.z0.glb.clouddn.com/wp-content/uploads/2015/02/p2199467907.jpg)
 
 是我很久没有看电影的原因么，总之看了还是觉得不错的。可是豆瓣的评分颇低，无所谓他人怎么看了，我自己娱乐好了就行。下一部想看的是《unbreak》
 
