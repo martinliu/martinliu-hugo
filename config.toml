@@ -64,8 +64,8 @@ pygmentCodeFences = true
     weight = 3
 
 [[menu.main]]
-    identifier = "Book"
-    name = "Book"
+    identifier = "Books"
+    name = "Books"
     weight = 4
 
 [[menu.main]]
