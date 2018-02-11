@@ -4,6 +4,8 @@
 
 Visit my blog at [https://martinliu.cn](https://martinliu.cn) ; this repo is source code
 
+Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) adapted to [Beautiful Hugo](https://github.com/halogenica/beautifulhugo)
+
 ## Change log
 
 * Added travis-ci build status on readme page. Deleted old deploy script on my laptop.
@@ -12,8 +14,6 @@ Visit my blog at [https://martinliu.cn](https://martinliu.cn) ; this repo is sou
 ## To-Do list
 
 * Add Algolia search.
-
-Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) adapted to [Beautiful Hugo](https://github.com/halogenica/beautifulhugo)
 
 
 ## Acknowledgements
