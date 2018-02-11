@@ -9,6 +9,7 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 ## Change log
 
 * Added travis-ci build status on readme page. Deleted old deploy script on my laptop.
+* Added README.md to website.
 
 
 ## To-Do list

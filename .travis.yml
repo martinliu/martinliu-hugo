@@ -8,7 +8,7 @@ install:
 
 script:
   - hugo # This commands builds your website on travis
-  - cp README.MD public
+  - cp README.md public
 
 deploy:
   local_dir: public # Default static site output dir for Hugo
