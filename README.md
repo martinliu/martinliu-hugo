@@ -1,6 +1,12 @@
-# My blog's source code
+# Martin's blog source code
 
-[Martin Liu's blog](http://martinliu.cn) source code
+[![Build Status](https://travis-ci.org/martinliu/martinliu-hugo.svg?branch=master)](https://travis-ci.org/martinliu/martinliu-hugo)
+
+Visit my blog at [https://martinliu.cn](https://martinliu.cn) ; this repo is source code
+
+## Change log
+
+* Added travis-ci build status on readme page. Deleted old deploy script on my laptop.
 
 Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) adapted to [Beautiful Hugo](https://github.com/halogenica/beautifulhugo)
 
