@@ -10,8 +10,8 @@ pygmentCodeFences = true
 
 [Params]
   hello = "Do you have a pleasent DevOps journey?"
-  subtitle = "I am a runner, blogger and open source funs"
-  logo = "http://martinliu.qiniudn.com/img/logo.jpg"
+  subtitle = "I am a runner, blogger and huge opensource fun"
+  logo = "https://res.cloudinary.com/martinliu/image/upload/v1518107233/avatar.jpg"
   favicon = "/favicon.ico"
   dateFormat = "2006, January 2"
   commit = false
@@ -21,25 +21,25 @@ pygmentCodeFences = true
   algolia = "06f3928eb3fad870c9197c68c238dbd3" # API key
   #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   description = "刘征的博客|DevOps|Cloud Computing"
-  errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
+  errorpage = "https://res.cloudinary.com/martinliu/image/upload/v1518322949/404-error.png"
 
 [[Params.bigimg]]
-  src = "http://martinliu.qiniudn.com/images/header-img1.jpg"
+  src = "https://res.cloudinary.com/martinliu/image/upload/v1518107273/header-img1.jpg"
   desc = "Fly to cloud"
 [[Params.bigimg]]
-  src = "http://martinliu.qiniudn.com/images/header-img2.jpg"
+  src = "https://res.cloudinary.com/martinliu/image/upload/v1518107263/header-img2.jpg"
   desc = "Walk your way"
 [[Params.bigimg]]
-  src = "http://martinliu.qiniudn.com/images/sandra li-1.JPG"
+  src = "https://res.cloudinary.com/martinliu/image/upload/v1518107226/sandra_li-2.jpg"
   desc = "国家剧院/SandraLi"
 
 [Author]
   name = "Martin Liu"
   website = "martinliu.cn"
-  email = "67120666@qq.com"
+  email = "liuzh66@gmail.com"
   #facebook = "username"
-  googleplus = "+MartinLiu-cn" # or xxxxxxxxxxxxxxxxxxxxx
-#  github = "username"
+  googleplus = "+MartinLiu-cn"
+  github = "martinliu"
 #  gitlab = "username"
   twitter = "martinliu"
 #  reddit = "username"
@@ -64,6 +64,18 @@ pygmentCodeFences = true
     weight = 3
 
 [[menu.main]]
+    identifier = "Book"
     name = "Book"
-    url = "https://handbook.martinliu.cn"
     weight = 4
+
+[[menu.main]]
+    parent = "Books"
+    name = "DevOps实践指南"
+    url = "https://handbook.martinliu.cn"
+    weight = 1
+
+[[menu.main]]
+    parent = "Books"
+    name = "Nutanix实验室"
+    url = "https://nutanix.martinliu.cn"
+    weight = 2

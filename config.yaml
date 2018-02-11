@@ -6,7 +6,7 @@ languageCode: "zh-cn"
 title: "Martin Liu's Blog" 
 theme: "beautifulhugo"
 metaDataFormat: "yaml"
-subtitle: "I am a runner, blogger and open source funs"
+subtitle: "I am a runner, blogger and huge opensource fun"
 dateFormat: "2006, January 2"
 description: "DevOps and Cloud"
 algolia:
