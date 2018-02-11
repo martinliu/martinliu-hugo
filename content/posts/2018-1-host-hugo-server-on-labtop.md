@@ -5,7 +5,7 @@ draft: false
 subtitle: "把笔记本上的Hugo站点分享给局域网里的其它人"
 categories: "blog"
 tags: ["hugo"]
-bigimg: [{src: "/images/abstract-3.jpg"}]
+bigimg: [{src: "http://martinliu.qiniudn.com/images/abstract-3.jpg"}]
 ---
 
 # 将笔记本上的Hugo站点分享给局域网里的其他人
@@ -46,7 +46,7 @@ Press Ctrl+C to stop
 
 以macOS为例，当你启动了这个Hugo服务器的时候，你访问 Security & Privacy 配置的时候，选择 Firewall 标签的时候，会自动弹出一个对话框，询问是否允许 incoming 的网络连接到 hugo 的应用服务。点击允许即可，这样防火墙配置里就多了一条配置，如下图所示：
 
-![firewall](/images/hugo-firewall-rule.jpeg)
+![firewall](http://martinliu.qiniudn.com/images/hugo-firewall-rule.jpeg)
 
 ## 总结
 

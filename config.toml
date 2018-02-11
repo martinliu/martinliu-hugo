@@ -11,8 +11,8 @@ pygmentCodeFences = true
 [Params]
   hello = "Do you have a pleasent DevOps journey?"
   subtitle = "I am a runner, blogger and open source funs"
-  logo = "/img/logo.jpg"
-  favicon = "/img/favicon.ico"
+  logo = "http://martinliu.qiniudn.com/img/logo.jpg"
+  favicon = "/favicon.ico"
   dateFormat = "2006, January 2"
   commit = false
   #rss = true
@@ -24,13 +24,13 @@ pygmentCodeFences = true
   errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
 
 [[Params.bigimg]]
-  src = "/images/header-img1.jpg"
+  src = "http://martinliu.qiniudn.com/images/header-img1.jpg"
   desc = "Fly to cloud"
 [[Params.bigimg]]
-  src = "/images/header-img2.jpg"
+  src = "http://martinliu.qiniudn.com/images/header-img2.jpg"
   desc = "Walk your way"
 [[Params.bigimg]]
-  src = "/images/sandra li-1.JPG"
+  src = "http://martinliu.qiniudn.com/images/sandra li-1.JPG"
   desc = "国家剧院/SandraLi"
 
 [Author]
