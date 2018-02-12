@@ -6,7 +6,6 @@ subtitle: "虽然容器编排器之战已经被K8s终结，可是这篇文章对
 categories: "devops"
 tags: ["container"]
 bigimg: [{src: "http://martinliu.qiniudn.com/images/sandrali-4.jpeg", desc: "泰国曼谷 by SandraLi"}]
-
 ---
 
 # 容器编排器之战
@@ -541,3 +540,5 @@ KONTENA
 - **How many nines** do your customers need?
 - How important is reverse compatibility & API **stability**?
 - Do you need to support **non-Docker workloads**?
+
+

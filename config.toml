@@ -49,7 +49,7 @@ pygmentCodeFences = true
   post = "/:year/:month/:filename/"
 
 [[menu.main]]
-    name = "Blog"
+    name = "Home"
     url = "/"
     weight = 1
 
