@@ -10,11 +10,13 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 
 * Added travis-ci build status on readme page. Deleted old deploy script on my laptop.
 * Added README.md to website.
+* Added netlify.toml
 
 
 ## To-Do list
 
 * Add Algolia search.
+* Add CI/CD tools: Netlify and greenkeeper
 
 
 ## Acknowledgements
