@@ -9,8 +9,10 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  hello = "Do you have a pleasent DevOps journey?"
-  subtitle = "I am a runner, blogger and huge opensource fun"
+#  hello = "Do you have a pleasent DevOps journey?"
+  hello = "莲年有余"
+  subtitle = "Celebrate Spring Festival! "
+#  subtitle = "I am a runner, blogger and huge opensource fun"
   logo = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/avatar.jpg"
   favicon = "/favicon.ico"
   dateFormat = "2006, January 2"
@@ -23,15 +25,18 @@ pygmentCodeFences = true
   description = "刘征的博客|DevOps|Cloud Computing"
   errorpage = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/404-error.png"
 
+#[[Params.bigimg]]
+#  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/header-img1.jpg"
+#  desc = "Fly to cloud"
+#[[Params.bigimg]]
+#  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/header-img2.jpg"
+#  desc = "Walk your way"
+#[[Params.bigimg]]
+#  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
+#  desc = "国家剧院/SandraLi"
 [[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/header-img1.jpg"
-  desc = "Fly to cloud"
-[[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/header-img2.jpg"
-  desc = "Walk your way"
-[[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
-  desc = "国家剧院/SandraLi"
+  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/v1518534384/chinese-new-year_h.jpg"
+  desc = "杨柳青年画-莲年有余"
 
 [Author]
   name = "Martin Liu"
