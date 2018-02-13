@@ -11,7 +11,7 @@ pygmentCodeFences = true
 [Params]
   hello = "Do you have a pleasent DevOps journey?"
   subtitle = "I am a runner, blogger and huge opensource fun"
-  logo = "https://res.cloudinary.com/martinliu/image/upload/v1518107233/avatar.jpg"
+  logo = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/avatar.jpg"
   favicon = "/favicon.ico"
   dateFormat = "2006, January 2"
   commit = false
@@ -21,16 +21,16 @@ pygmentCodeFences = true
   algolia = "06f3928eb3fad870c9197c68c238dbd3" # API key
   #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   description = "刘征的博客|DevOps|Cloud Computing"
-  errorpage = "https://res.cloudinary.com/martinliu/image/upload/v1518322949/404-error.png"
+  errorpage = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/404-error.png"
 
 [[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/v1518107273/header-img1.jpg"
+  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/header-img1.jpg"
   desc = "Fly to cloud"
 [[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/v1518107263/header-img2.jpg"
+  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/header-img2.jpg"
   desc = "Walk your way"
 [[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/v1518107226/sandra_li-2.jpg"
+  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
   desc = "国家剧院/SandraLi"
 
 [Author]
