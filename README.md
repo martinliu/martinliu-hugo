@@ -20,8 +20,8 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 
 ## To-Do list
 
-[] Add Algolia search.
-[] Add CI/CD tools: Netlify and greenkeeper
+[ ] Add Algolia search.
+[x] Add CI/CD tools: Netlify and greenkeeper
 
 
 ## Acknowledgements
