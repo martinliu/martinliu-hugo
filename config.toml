@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://martinliu.cn/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 languageCode = "zh-cn"
