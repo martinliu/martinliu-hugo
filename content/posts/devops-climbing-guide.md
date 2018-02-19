@@ -1,5 +1,5 @@
 ---
-title: "DevOps登山指南手册-来自于Nationwide案例分享"
+title: "DevOps登山指南手册-来自案例分享"
 date: 2018-02-20T00:34:09+08:00
 draft: false
 description: "DevOps 案例研究 DOES17 San Francisco - DevOps Handbook Experiments in Accelerating Delivery - Nationwide"
