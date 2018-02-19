@@ -1,8 +1,8 @@
 ---
-title: "DevOps登山指南手册"
+title: "DevOps登山指南手册-来自于Nationwide案例分享"
 date: 2018-02-20T00:34:09+08:00
 draft: false
-description: " 案例研究 DOES17 San Francisco - DevOps Handbook Experiments in Accelerating Delivery - Nationwide"
+description: "DevOps 案例研究 DOES17 San Francisco - DevOps Handbook Experiments in Accelerating Delivery - Nationwide"
 subtitle: "美国金融行业Nationwide保险公司DevOps案例研究，来源DOES17 San Francisco，主题-DevOps Handbook Experiments in Accelerating Delivery"
 tags: ["DevOps"]
 bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/abstract-6.jpg", desc: "DevOps案例研究-Nationwide使用DevOps Handbook在加速交付过程中的实验"}]
