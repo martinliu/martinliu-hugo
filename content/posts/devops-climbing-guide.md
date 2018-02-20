@@ -38,7 +38,7 @@ nocomment: true
 3. 他们将DevOps的实施分成三个阶段，分别用大本营、北坡营地和顶峰作比喻。
 4. 这三个阶段里的技术实践都来自于DevOps Handbook，通过他们的筛选和整理，并根据自己的经验做了分阶段的规划。
 
-为了知其所以然，我们将继续向下发掘，详细了解一下这个案例分享所讲的主要内容。下面的内容也包含了我对他们的分析和评论，原文请参看视频。
+为了知其所以然，我们将继续向下发掘，详细了解这个案例分享所讲的主要内容。下面的内容也包含了我对他们的分析和评论，欲了解原始资料，请请参看我上传到腾讯的视频。
 
 -------
 
@@ -50,7 +50,7 @@ nocomment: true
 
 ![Grafmeyer, Jim, Payne, Cindy, DevOps Handbook Experiments in Accelerating Delivery](https://res.cloudinary.com/martinliu/image/upload/Grafmeyer_Jim_Payne_Cindy_DevOps_Handbook_Experiments_in_Accelerating_Delivery-page-001.jpg)
 
-这个演讲距现在也就是三个月。Cindy是DevOps团队中的核心人员，她的头衔是Director级别，角色是夏尔巴人，为业务产品组提供内部的DevOps咨询和辅导。Jim属于业务条线的Dev这一侧，他是业务部门的解决方案架构师。
+这个演讲距现在也就是三个月。Cindy是DevOps团队中的核心人员之一，她的头衔是Director，角色是夏尔巴人（后面会详细解释这个比喻的含义），为业务产品组提供内部的DevOps咨询和辅导。Jim属于业务条线的Dev这一侧，他是业务部门的解决方案架构师。
 
 ## Nationwide的核心价值：保护对你最有价值的
 

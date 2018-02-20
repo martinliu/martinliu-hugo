@@ -1,2 +1,2 @@
 hugo version
-hugo --theme=beautifulhugo --buildDrafts=false --baseURL="https://qa.martinliu.cn"
+hugo --theme=beautifulhugo --buildDrafts=false --baseURL="$DEPLOY_PRIME_URL"
