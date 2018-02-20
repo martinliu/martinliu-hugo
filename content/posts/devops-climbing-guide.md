@@ -8,7 +8,7 @@ tags: ["DevOps"]
 bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/Evest.jpg", desc: "DevOps案例研究-Nationwide使用DevOps Handbook在加速交付过程中的实验"}]
 postmeta: false
 nocomment: true
----
+---3 他
 
 全美互惠保险公司(Nationwide)美国公司。2017年6月7日，2017年《财富》美国500强排行榜发布，全美互惠保险公司排名第68位。营业收入40074.1百万美元。
 
