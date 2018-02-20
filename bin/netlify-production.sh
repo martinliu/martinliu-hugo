@@ -1,3 +1,0 @@
-hugo version
-hugo
-gulp
