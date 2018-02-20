@@ -50,7 +50,7 @@ nocomment: true
 
 ![Grafmeyer, Jim, Payne, Cindy, DevOps Handbook Experiments in Accelerating Delivery](https://res.cloudinary.com/martinliu/image/upload/Grafmeyer_Jim_Payne_Cindy_DevOps_Handbook_Experiments_in_Accelerating_Delivery-page-001.jpg)
 
-这个演讲距现在也就是三个月。Cindy是DevOps团队中的核心人员之一，她的头衔是Director，角色是夏尔巴人（后面会详细解释这个比喻的含义），为业务产品组提供内部的DevOps咨询和辅导。Jim属于业务条线的Dev这一侧，他是业务部门的解决方案架构师。
+这个演讲距现在也就是三个月。Cindy是DevOps团队中的核心人员之一，她的头衔是Director，角色是夏尔巴人（后面会详细解释这个比喻的含义），为业务产品组提供内部的DevOps咨询和辅导。Jim属于业务条线/BU的Dev这一侧，他是业务部门的解决方案架构师。
 
 ## Nationwide的核心价值：保护对你最有价值的
 
@@ -60,7 +60,7 @@ nocomment: true
 
 * 在很多险种上Nationwide都在业内排名第一名，包括：宠物保险、农场保险、公司寿险等等。
 * 这是一家有90年历史的老店
-* 汽车保险也行业排名第八（后面就是用这个业务为例，来描述DevOps实施的效果）
+* 汽车保险也行业排名第八（后面就是用这个业务为例，来佐证DevOps实施的效果）
 * 不光在财富500强企业排名68，还是财富所评选的前100个最佳的工作企业。
 
 -------
