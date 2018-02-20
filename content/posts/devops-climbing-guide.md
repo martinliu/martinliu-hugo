@@ -8,11 +8,13 @@ tags: ["DevOps"]
 bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/Evest.jpg", desc: "DevOps案例研究-Nationwide使用DevOps Handbook在加速交付过程中的实验"}]
 postmeta: false
 nocomment: true
----3 他
+---
 
-全美互惠保险公司(Nationwide)美国公司。2017年6月7日，2017年《财富》美国500强排行榜发布，全美互惠保险公司排名第68位。营业收入40074.1百万美元。
+全美互惠保险公司(Nationwide)美国公司。在2017年6月7日，《财富》2017年美国500强排行榜发布，全美互惠保险公司排名第68位。营业收入40074.1百万美元。
 
-这家公司是DevOps Handbook（DevOps实践指南）书中的案例研究之一。这是一家DevOps水平较高的企业，是DevOpsDays大会的常客，是DevOps工具厂商（New Relic）常邀请的技术大会案例分享嘉宾。他们也经常参加DevOps企业峰会，多次做过自身DevOps应用状况的案例分享，本文分析和整理了他们在2017年11月旧金山站DevOps企业峰会上他们的演讲，主题为《DevOps Handbook Experiments in Accelerating Delivery - Nationwide》（使用DevOps Handbook在加速发交付的过程中的实验）
+这家公司是DevOps Handbook（DevOps实践指南）书中的案例研究之一。这是一家DevOps水平较高的企业，是DevOpsDays大会上分享嘉宾的常客，也是各个DevOps工具厂商（New Relic）经常邀请的案例分享嘉宾。他们也经常参加DevOps企业峰会，曾多次做过自己的DevOps应用状况案例分享。
+
+本文分析和整理了他们在2017年11月旧金山站DevOps企业峰会上他们的演讲，主题为《DevOps Handbook Experiments in Accelerating Delivery - Nationwide》（翻译：使用DevOps Handbook在加速发交付的过程中的实验）
 
 本文根据这个演讲的YouTube视频整理而成。视频已经上传到腾讯视频，点这里观看该视频。
 
@@ -21,14 +23,9 @@ nocomment: true
 
 ## DevOps登山指南手册
 
-我在翻译DevOps Handbook的过程中，这家公司的案例研究，并不像本演讲所说的这样的精彩。凭借记忆，回忆书中的案例研究大概谈的了这样几点：
+我在翻译DevOps Handbook的过程中，感觉书中所描述的这家公司的案例研究，并不像本演讲里所说的这样的精彩。
 
-* 在他们参加了多次DevOpsDays大会社区的活动之后，深受启发和鼓舞。
-* 然后在自己的公司里也举办了同样风格的大会，首次大会邀请的多是外部分享嘉宾，目标是在企业内部，给他们的领导创造一个近似于参加外部DevOpsDays大会体验。
-* 取得的效果很明显，公司的领导层通过这次大会对DevOps有了充分的认识，并开始提供这方面的支持。
-* 这个案例的目标是描述组织性学习和创建学习型组织的方式和方法。
-
-而时光已经很快的流转到了将近2018年，他们的DevOps也经过了几年的发展，本文案例向我们展示了一个金融行业（我们往往认为不太容易实施DevOps的行业）企业，在很大的规模上，所取得的令人敬佩的成就。
+而时光已经很快的流转到了将近2018年，他们的DevOps也经过了几年的发展，本文案例向我们展示了一个金融行业（我们往往认为不太容易实施DevOps的行业）企业，在很大的企业规模了，所取得的令人敬佩的成就。
 
 下面这张图是本文的精华，先给各位呈现出来。他们使用攀登珠穆朗玛峰做为比喻，对DevOps的实施做了生动的诠释。
 
