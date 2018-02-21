@@ -6,6 +6,11 @@ subtitle: "一月一日晨跑故宫和天安门广场周边"
 categories: "running"
 tags: ["Beijing"]
 bigimg: [{src: "http://martinliu.qiniudn.com/images/sandra li-2.JPG", desc: "国家大剧院 By Sandra Li"}]
+keywords:
+- 2018
+- New Year
+- 跑步
+
 ---
 # 用跑步的方式启动2018年
 
