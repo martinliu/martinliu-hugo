@@ -6,7 +6,7 @@ title = "Maritn's Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentCodeFences = true
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-749876-6"
 
 [Params]
 #  hello = "Do you have a pleasent DevOps journey?"
