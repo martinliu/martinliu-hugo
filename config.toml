@@ -39,7 +39,7 @@ pygmentCodeFences = true
   desc = "杨柳青年画-莲年有余"
 
 [Author]
-  name = "Martin Liu"
+  name = "刘征 Martin Liu DevOps 培训 教练"
   website = "martinliu.cn"
   email = "liuzh66@gmail.com"
   #facebook = "username"
@@ -49,6 +49,9 @@ pygmentCodeFences = true
   twitter = "martinliu"
 #  reddit = "username"
   linkedin = "liuzheng"
+
+enableRobotsTXT = true
+canonifyURLs = true
 
 [permalinks]
   post = "/:year/:month/:filename/"

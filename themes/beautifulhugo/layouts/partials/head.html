@@ -2,7 +2,9 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<!-- Site Title, Description, Author, and Favicon -->
+<!--SEO -->
+{{ partial "seo_schema" . }}
+  <!-- Site Title, Description, Author, and Favicon -->
 {{- with .Title | default .Site.Title }}
   <title> {{ . }} - {{ $.Site.Params.description }}</title>
   <meta name="description" content="{{ $.Site.Params.description }}" />
@@ -14,7 +16,9 @@
   <meta property="og:description" content="{{ . }}">
   <meta name="twitter:description" content="{{ . | truncate 200 }}">
 {{- end }}
-  <meta name="author" content="{Description { .Site.Author.name }}"/>
+{{- with .Site.Author.name}}
+  <meta name="author" content="{{ . }}"/>
+{{- end -}}
 {{- with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
 {{- end -}}
@@ -34,6 +38,7 @@
   <meta property="og:url" content="{{ .URL | absLangURL }}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta content="{{ delimit .Keywords " , " }}" name="keywords">
 <!-- Hugo Version number -->
   {{ .Hugo.Generator -}}
 <!-- Links and stylesheets -->
