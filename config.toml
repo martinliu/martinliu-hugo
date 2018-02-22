@@ -2,7 +2,7 @@ baseurl = "https://martinliu.cn/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 languageCode = "zh-cn"
-title = "Maritn's Blog" 
+title = "Martin's Blog" 
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentCodeFences = true
@@ -68,7 +68,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about"
     weight = 3
 
 [[menu.main]]
