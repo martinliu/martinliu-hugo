@@ -2,12 +2,7 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-<!--SEO -->
-{{ partial "seo_schema" . }}
-<meta name="msvalidate.01" content="12F570013342D1F8B60A455D09221C1D" />
-<meta name="yandex-verification" content="7e9acc85531b0f35" />
-<meta name="google-site-verification" content="4oSwNTpy1vzip3_lt6XhkhMfImCD_DZlvL3K1k-M8qk" />
-<meta name="baidu-site-verification" content="Z7d1tYkxzQ" />
+
 <!-- Site Title, Description, Author, and Favicon -->
 {{- with .Title | default .Site.Title }}
   <title> {{ . }} - {{ $.Site.Params.description }}</title>
@@ -26,6 +21,24 @@
 {{- with .Site.Params.favicon }}
   <link href='{{ . | absURL }}' rel='icon' type='image/x-icon'/>
 {{- end -}}
+
+<!--SEO -->
+{{ partial "seo_schema" . }}
+<meta name="msvalidate.01" content="12F570013342D1F8B60A455D09221C1D" />
+<meta name="yandex-verification" content="7e9acc85531b0f35" />
+<meta name="google-site-verification" content="4oSwNTpy1vzip3_lt6XhkhMfImCD_DZlvL3K1k-M8qk" />
+<meta name="baidu-site-verification" content="Z7d1tYkxzQ" />
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+      'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-TL37V8G');</script>
+<!-- End Google Tag Manager -->
+
 <!-- Social Media Tags -->
 {{- with .Params.share_img | default .Params.image | default .Site.Params.logo }}
   <meta property="og:image" content="{{ . | absURL }}" />
