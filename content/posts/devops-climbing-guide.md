@@ -104,10 +104,10 @@ IT组织的特点和相关数据。
 ![Grafmeyer, Jim, Payne, Cindy, DevOps Handbook Experiments in Accelerating Delivery](https://res.cloudinary.com/martinliu/image/upload/Grafmeyer_Jim_Payne_Cindy_DevOps_Handbook_Experiments_in_Accelerating_Delivery-page-005.jpg)
 
 * IT组织十年以来追求的战略目标：构建具有全球竞争力的内包式软件开发能力；为此而采用了不同的管理框架和实践，应用和开始的时间点也不同
-* Agile：敏捷软件开发是10年前就开始的，定位和目标是通过敏捷软件开发交付高质量的软件
-* DevOps：今年加入了DevOps实践，定位是如何实现速度、效率和降低风险。
-* Lean IT：定位是确保将IT管理的各种实践（包括以上的敏捷和DevOps）提升和推广到企业级规模。（他们认为在团队级别上任何敏捷和DevOps相关的实践都是很容易实现的，而企业级规模的推广是更高等级的管理，是不容易达到的）
-* CMMI：使用行业规范的软件开发成熟度标准评价和考量自身的软件开发能力，为自身的不断提高提供标准参考。
+    * Agile：敏捷软件开发是10年前就开始的，定位和目标是通过敏捷软件开发交付高质量的软件
+    * DevOps：今年加入了DevOps实践，定位是如何实现速度、效率和降低风险。
+    * Lean IT：定位是确保将IT管理的各种实践（包括以上的敏捷和DevOps）提升和推广到企业级规模。（他们认为在团队级别上任何敏捷和DevOps相关的实践都是很容易实现的，而企业级规模的推广是更高等级的管理，是不容易达到的）
+    * CMMI：使用行业规范的软件开发成熟度标准评价和考量自身的软件开发能力，为自身的不断提高提供标准参考。
 * 该公司DevOps实践是最晚开始应用的，其它的三个方面使用的历史比较长了，为了达成一个战略目标，需要4个战术层面实践的支持，这些战术的采用时期和定位不同；4个战术从不同的侧面支持了战略目标的实现。该企业也在Lean IT的论坛上分享和演讲过。
 
 
