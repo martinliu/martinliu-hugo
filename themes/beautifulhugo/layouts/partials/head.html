@@ -52,7 +52,7 @@
   <meta property="og:url" content="{{ .URL | absLangURL }}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
-  <meta content="{{ delimit .Keywords " , " }}" name="keywords">
+  <meta name="keywords" content="{{ delimit .Keywords " , " }}" />
 <!-- Hugo Version number -->
   {{ .Hugo.Generator -}}
 <!-- Links and stylesheets -->
