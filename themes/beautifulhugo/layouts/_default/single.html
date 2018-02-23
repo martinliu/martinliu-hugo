@@ -4,11 +4,8 @@
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             {{ $baseurl := .Site.BaseURL }}
             <div>
-                <section id="datecount">
-                    <h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }}</h4>
-                </section>
-                <h5 id="wc">{{ .FuzzyWordCount }} Words|Read in about {{ .ReadingTime }} Min</h5>
-                <h5 id="tags">Tags: {{ range .Params.tags }}
+                <h5 id="wc">字数：{{ .FuzzyWordCount }} |大约阅读时间 {{ .ReadingTime }} 分钟</h5>
+                <h5 id="tags">标签: {{ range .Params.tags }}
                     <a href="{{ $baseurl }}/tags/{{ . | urlize }}">{{ . }}</a> &nbsp;{{ end }}
                 </h5>
 
