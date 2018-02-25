@@ -12,7 +12,7 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/IT_Revolution_
 ![本文内容主要来源](https://res.cloudinary.com/martinliu/image/upload/TMNS-book-review-DevOps-1.png)
 
 
-本文内容主要来源于《DevOps Handbook》-DevOps实践指南，本文概述的原则是DevOps工作三步法的第一步，它的目标是先建立最底层的基础，即：DevOps技术实践和合理的应用架构；只有这样才能使工作快速而稳定地从开发端流动到运维端；与此同时还能保证不会给生产环境带来混乱，不会中断客户的服务。这就意味着需要降低在生产环境中部署和发布变更的风险。可以通过*持续交付*的技术实践来实现这个目标。
+本文内容主要来源于《DevOps Handbook》-DevOps实践指南，本文概述的原则是DevOps工作三步法的第一步，它的目标是先建立最底层的基础，即：DevOps技术实践和合理的应用架构；只有这样才能使工作快速而稳定地从开发端流动到运维端；与此同时还能保证不会给生产环境带来混乱，不会中断客户的服务。这就意味着需要降低在生产环境中部署和发布变更的风险。可以通过 *持续交付* 的技术实践来实现这个目标。
 
 ![The first way flow](https://res.cloudinary.com/martinliu/image/upload/first_way.png)
 
