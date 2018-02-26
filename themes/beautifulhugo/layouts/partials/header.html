@@ -59,7 +59,7 @@
         </div>
         <span class="img-desc" style="display: inline;"></span>
       </div>
-    {{end}}
+    {{ else }}
     <div class="intro-header no-img">
       {{ $subtitle := $.Scratch.Get "subtitle" }}
       <div class="container">
@@ -83,6 +83,7 @@
         </div>
       </div>
     </div>
+    {{end}}
   </header>
 {{ else }}
   <div class="intro-header"></div>
