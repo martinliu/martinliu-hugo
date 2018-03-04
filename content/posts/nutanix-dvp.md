@@ -2,7 +2,7 @@
 title: 为Docker Swarm群集配置Nutanix持久存储
 subtitle: 在Nutanix平台上为Docker配置存储
 date: 2017-11-02
-tags: ["Nutnaix","docker"]
+tags: ["Nutanix","docker"]
 bigimg: [{src: "/images/abstract-4.jpg"}]
 ---
 

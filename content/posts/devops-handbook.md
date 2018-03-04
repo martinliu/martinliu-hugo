@@ -60,7 +60,7 @@ Jene Kim是这本书的主要作者，他在出版了《凤凰项目》之后，
 
 ### 译者4人
 
-在我和人民邮电出版社联系并进行试译之后，组织了翻译小组。王磊和马博文是我这几年结识的DevOps圈内的技术大拿；曾朝京是IT管理领域的资深专家，是我的老同事和十多年的朋友。王磊的著作有[《微服务架构与实践》](https://www.amazon.cn/dp/B018SRCFI6/)；马博文翻译的书籍有[《DevOps 实践》](https://www.amazon.cn/dp/B01LWLRQF3/)
+在我和人民邮电出版社联系并进行试译之后，组织了翻译小组。王磊和马博文是我这几年结识的DevOps圈内的技术大拿；曾朝京是IT管理领域的资深专家，我之前的同事。王磊的著作有[《微服务架构与实践》](https://www.amazon.cn/dp/B018SRCFI6/)；马博文翻译的书籍有[《DevOps 实践》](https://www.amazon.cn/dp/B01LWLRQF3/)
 
 
 ![translator](https://res.cloudinary.com/martinliu/image/upload/devops-handbook-translator.png)
