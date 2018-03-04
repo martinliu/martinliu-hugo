@@ -6,6 +6,7 @@ description: "Martin Liu (刘征) - DevOps and Cloud Computing"
 nocomment: true
 postmeta: false
 seealso: false
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/ZellerHorn_ZH-CN7123868469_1920x1080.jpg", desc: ""}]
 ---
 
 http://www.martinliu.cn 是我的个人博客，开始于2007年。
@@ -24,3 +25,5 @@ http://www.martinliu.cn 是我的个人博客，开始于2007年。
 
 
 ![weichat](https://res.cloudinary.com/martinliu/image/upload/v1518107151/martinliu-weichat.jpg)
+
+

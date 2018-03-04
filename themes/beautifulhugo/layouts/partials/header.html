@@ -29,7 +29,7 @@
                 <div class="page-heading">
                 {{ end }}
                   {{ if .IsHome }}
-                     <h1 align="center">{{ $hello }}</h1>
+                    <span class="page-subheading">{{ $hello }}</span>
                   {{ else }}
                      <h1>{{ with $.Scratch.Get "title" }}{{.}}{{ else }}<br/>{{ end }}</h1>
                      {{ if $subtitle }}
@@ -59,7 +59,7 @@
         </div>
         <span class="img-desc" style="display: inline;"></span>
       </div>
-    {{end}}
+    {{ else }}
     <div class="intro-header no-img">
       {{ $subtitle := $.Scratch.Get "subtitle" }}
       <div class="container">
@@ -83,6 +83,7 @@
         </div>
       </div>
     </div>
+    {{end}}
   </header>
 {{ else }}
   <div class="intro-header"></div>

@@ -1,2 +1,1 @@
-### 刘征（Martin Liu) DevOps教练
-我是[DevOps Handbook](http://handbook.martinliu.cn)的译者，Exin首批国内[**DOP和DOM认证讲师**](https://www.exin.jp/CN/zh/exams/&exam=exin-devops-master)，从业十多年以来积累了丰富的云计算技术和项目经验，持有红帽RHCA认证和AWS高级架构师认证。谙熟企业数据中心的IT服务管理。目前致力于推广DevOps的理念和技术实践。
+刘征（Martin Liu DevOps教练）是[DevOps Handbook](http://handbook.martinliu.cn)的译者，Exin首批国内[**DOP和DOM认证讲师**](https://www.exin.jp/CN/zh/exams/&fw=exin-devops)，从业十多年以来积累了丰富的云计算技术和项目经验，持有红帽RHCA认证和AWS高级架构师认证。谙熟企业数据中心的IT服务管理。目前致力于推广DevOps的理念和技术实践。

@@ -5,7 +5,7 @@ draft: false
 description: "DevOps 案例研究 DOES17 San Francisco - DevOps Handbook Experiments in Accelerating Delivery - Nationwide"
 subtitle: "美国金融行业Nationwide保险公司DevOps案例研究，来源DOES17 San Francisco，主题-DevOps Handbook Experiments in Accelerating Delivery"
 tags: ["DevOps"]
-bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/Evest.jpg", desc: "DevOps案例研究-Nationwide使用DevOps Handbook在加速交付过程中的实验"}]
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/Evest.jpg", desc: "DevOps案例研究-Nationwide"}]
 postmeta: false
 nocomment: true
 ---
@@ -14,7 +14,7 @@ nocomment: true
 
 这家公司是DevOps Handbook（DevOps实践指南）书中的案例研究之一。这是一家DevOps水平较高的企业，是DevOpsDays大会上分享嘉宾的常客，也是各个DevOps工具厂商（New Relic）经常邀请的案例分享嘉宾。他们也经常参加DevOps企业峰会，曾多次做过自己的DevOps应用状况案例分享。
 
-本文分析和整理了他们在2017年11月旧金山站DevOps企业峰会上他们的演讲，主题为《DevOps Handbook Experiments in Accelerating Delivery - Nationwide》（翻译：使用DevOps Handbook在加速发交付的过程中的实验）
+本文分析和整理了他们在2017年11月旧金山站DevOps企业峰会上他们的演讲，主题为《DevOps Handbook Experiments in Accelerating Delivery - Nationwide》（翻译：使用DevOps Handbook在加速开发交付的过程中的实验）
 
 本文根据这个演讲的YouTube视频整理而成。视频已经上传到腾讯视频，[点这里观看该视频。](https://v.qq.com/x/page/v0555haemus.html)
 
@@ -33,7 +33,7 @@ nocomment: true
 
 本图在Nationwide公司内部的使用场景如下：
 
-1. 本图将DevOps实施核心团指导产品开发团队（也可以说是业务团队、服务团队、这样的团队他们有200多个）取得的经验总结在一张纸上，供其它有实施DevOps想法的团队参考。
+1. 本图将DevOps实施核心团对指导产品开发团队（也可以说是业务团队、服务团队、这样的团队他们有200多个）取得的经验总结在一张纸上，供其它有实施DevOps想法的团队参考。
 2. 该登山指南简化了对其它非DevOps团队的教育和指引。
 3. 他们将DevOps的实施分成三个阶段，分别用大本营、北坡营地和顶峰作比喻。
 4. 这三个阶段里的技术实践都来自于DevOps Handbook，通过他们的筛选和整理，并根据自己的经验做了分阶段的规划。
@@ -50,7 +50,7 @@ nocomment: true
 
 ![Grafmeyer, Jim, Payne, Cindy, DevOps Handbook Experiments in Accelerating Delivery](https://res.cloudinary.com/martinliu/image/upload/Grafmeyer_Jim_Payne_Cindy_DevOps_Handbook_Experiments_in_Accelerating_Delivery-page-001.jpg)
 
-这个演讲距现在也就是三个月。Cindy是DevOps团队中的核心人员之一，她的头衔是Director，角色是夏尔巴人（后面会详细解释这个比喻的含义），为业务产品组提供内部的DevOps咨询和辅导。Jim属于业务条线/BU的Dev这一侧，他是业务部门的解决方案架构师。
+这个演讲距2018年2月也就是三个月，还算是很新鲜的一个案例。Cindy是DevOps团队中的核心人员之一，她的头衔是Director，角色是夏尔巴人（后面会详细解释这个比喻的含义），为业务产品组提供内部的DevOps咨询和辅导。Jim属于业务条线/BU的Dev这一侧，他是业务部门的解决方案架构师。
 
 ## Nationwide的核心价值：保护对你最有价值的
 
@@ -104,10 +104,10 @@ IT组织的特点和相关数据。
 ![Grafmeyer, Jim, Payne, Cindy, DevOps Handbook Experiments in Accelerating Delivery](https://res.cloudinary.com/martinliu/image/upload/Grafmeyer_Jim_Payne_Cindy_DevOps_Handbook_Experiments_in_Accelerating_Delivery-page-005.jpg)
 
 * IT组织十年以来追求的战略目标：构建具有全球竞争力的内包式软件开发能力；为此而采用了不同的管理框架和实践，应用和开始的时间点也不同
-* Agile：敏捷软件开发是10年前就开始的，定位和目标是通过敏捷软件开发交付高质量的软件
-* DevOps：今年加入了DevOps实践，定位是如何实现速度、效率和降低风险。
-* Lean IT：定位是确保将IT管理的各种实践（包括以上的敏捷和DevOps）提升和推广到企业级规模。（他们认为在团队级别上任何敏捷和DevOps相关的实践都是很容易实现的，而企业级规模的推广是更高等级的管理，是不容易达到的）
-* CMMI：使用行业规范的软件开发成熟度标准评价和考量自身的软件开发能力，为自身的不断提高提供标准参考。
+    * Agile：敏捷软件开发是10年前就开始的，定位和目标是通过敏捷软件开发交付高质量的软件
+    * DevOps：今年加入了DevOps实践，定位是如何实现速度、效率和降低风险。
+    * Lean IT：定位是确保将IT管理的各种实践（包括以上的敏捷和DevOps）提升和推广到企业级规模。（他们认为在团队级别上任何敏捷和DevOps相关的实践都是很容易实现的，而企业级规模的推广是更高等级的管理，是不容易达到的）
+    * CMMI：使用行业规范的软件开发成熟度标准评价和考量自身的软件开发能力，为自身的不断提高提供标准参考。
 * 该公司DevOps实践是最晚开始应用的，其它的三个方面使用的历史比较长了，为了达成一个战略目标，需要4个战术层面实践的支持，这些战术的采用时期和定位不同；4个战术从不同的侧面支持了战略目标的实现。该企业也在Lean IT的论坛上分享和演讲过。
 
 
@@ -160,7 +160,7 @@ IT组织的特点和相关数据。
 -------
 
 
-## 开发者/程序员体验：十八班神兵利器，大量的上下文切换
+## 开发者/程序员体验：十八般神兵利器，大量的上下文切换
 
 【重点】2017年的实践核心是“开发者/程序员体验”（程序员要“富养”）
 

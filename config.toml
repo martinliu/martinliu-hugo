@@ -2,7 +2,7 @@ baseurl = "https://martinliu.cn/"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 languageCode = "zh-cn"
-title = "Maritn's Blog" 
+title = "Martin's Blog" 
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentCodeFences = true
@@ -10,8 +10,8 @@ googleAnalytics = "UA-749876-6"
 
 [Params]
 #  hello = "Do you have a pleasent DevOps journey?"
-  hello = "莲年有余"
-  subtitle = "Celebrate Spring Festival! "
+  hello = "DevOps for everyone"
+  subtitle = "Lean IT is a fundation"
 #  subtitle = "I am a runner, blogger and huge opensource fun"
   logo = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/avatar.jpg"
   favicon = "/favicon.ico"
@@ -35,8 +35,8 @@ googleAnalytics = "UA-749876-6"
 #  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
 #  desc = "国家剧院/SandraLi"
 [[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/v1518534384/chinese-new-year_h.jpg"
-  desc = "杨柳青年画-莲年有余"
+  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
+  desc = "国家大剧院/SandraLi"
 
 [Author]
   name = "刘征 Martin Liu DevOps 培训 教练"
@@ -68,7 +68,7 @@ canonifyURLs = true
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "about"
     weight = 3
 
 [[menu.main]]
