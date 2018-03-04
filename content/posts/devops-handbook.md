@@ -15,6 +15,8 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/IT_Revolution_
 
 然而，那些运用DevOps原则的高绩效企业（例如Google，Amazon，Facebook，Etsy和Netflix）则每天都可以在生产环境中成百上千次频繁地部署代码。那么DevOps理论、原则和实践到底是何等的殊胜呢？相信所有人在看了本书之后一定会得到答案。
 
+<<<<<<< HEAD
+=======
 ## 《DevOps实践指南》内容简介
 
 在现实中，系统经常被破坏，服务和产品总是不尽如人意，团队的潜力无法得到正常发挥；开发和IT运维是对立的，测试和信息安全活动总是在项目晚期才进行，这导致即使发现了问题也来不及修复；产品和服务交付中的关键活动往往全都需要手动操作和互相交接，我们总是要等待其他人的工作完成才能进行自己的工作；特性交付的周期一次次被拖延，质量也频频出现问题，特别是与生产环境部署相关的部分，进而对客户和业务造成了负面影响。
@@ -45,6 +47,7 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/IT_Revolution_
 
 
 
+>>>>>>> feature/w9-post
 ## 通过数字看这本书
 
 ### 基础数据
@@ -53,14 +56,22 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/IT_Revolution_
 
 ### 原作者4人
 
+<<<<<<< HEAD
+Jene Kim是这本书的主要作者，他在出版了《凤凰项目》之后，开始与其他三位作者编写本书的。Jez Humble是《持续交付》的作者，是持续交付实践和概念的重要发起人。Patrick Debios是DevOpsDays大会的发起人，是他最早在Twiter是用 #DevOps 这个短标签的，是DevOps运动和社区的重要人物。John Willis是DevOps社区早期的推动者之一，曾任Docker公司生态系统发展总监。
+=======
 Jene Kim是这本书的主要作者，他在出版了《凤凰项目》之后，开始与其他三位作者编写本书的。Jez Humble是《持续交付》的作者，是持续交付实践和概念的重要发起人。Patric Debios是DevOpsDays大会的发起人，是他最早在Twiter是用 #DevOps 这个短标签的，是DevOps运动和社区的重要人物。John Willis是DevOps社区早期的推动者之一，曾任Docker公司生态系统发展总监。
+>>>>>>> feature/w9-post
 
 ![authors](https://res.cloudinary.com/martinliu/image/upload/handbook-AUTHORS.png)
 
 
 ### 译者4人
 
+<<<<<<< HEAD
 在我和人民邮电出版社联系并进行试译之后，组织了翻译小组。王磊和马博文是我这几年结识的DevOps圈内的技术大拿；曾朝京是IT管理领域的资深专家，是我的老同事和十多年的朋友。王磊的著作有[《微服务架构与实践》](https://www.amazon.cn/dp/B018SRCFI6/)；马博文翻译的书籍有[《DevOps 实践》](https://www.amazon.cn/dp/B01LWLRQF3/)
+=======
+在我和人民邮电出版社联系并进行试译之后，组织了翻译小组。王磊和马博文是我这几年结识的DevOps圈内的技术大拿；曾朝京是IT管理领域的资深专家，我之前的同事。王磊的著作有[《微服务架构与实践》](https://www.amazon.cn/dp/B018SRCFI6/)；马博文翻译的书籍有[《DevOps 实践》](https://www.amazon.cn/dp/B01LWLRQF3/)
+>>>>>>> feature/w9-post
 
 
 ![translator](https://res.cloudinary.com/martinliu/image/upload/devops-handbook-translator.png)

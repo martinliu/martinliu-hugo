@@ -1,13 +1,37 @@
 ---
 date: 2017-01-03T00:00:00Z
-subtitle: 本清单来自于《DevOps Handbook》书中提到的书，更新到第五本
-image:
-  feature: ZellerHorn_ZH-CN7123868469_1920x1080.jpg
+subtitle: 本清单来自于《DevOps Handbook》书中提到的书，不仅限于此书
 tags:
 - DevOps
-title: 来自于《DevOps Handbook》的书单
+title: "DevOps书单"
 url: /2017/01/03/devops-booklist/
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/pexels-photo.jpg", desc: "DevOps书单"}]
 ---
+
+学习DevOps应该会使用到的书籍清单。 
+
+我在豆瓣建立了一个书单，欢迎在豆瓣给我留言，评论和建议。[豆瓣书单点这里。](https://www.douban.com/doulist/46341810/)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-25.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-22-24.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-19-21.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-16-18.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-13-15.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-10-12.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-7-9.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-4-6.png)
+
+![DevOps书单](https://res.cloudinary.com/martinliu/image/upload/booklist-1-3.png)
+
+
+-------
 
 本清单来自于《DevOps Handbook》书中提到的书，更新到第五本；《看板方法》、《精益思想》、《Implementing Lean Software Development: From Concept to Cash》、《第五项修炼:学习型组织的艺术与实践》、《探索吧!深入理解探索式软件测试》
 

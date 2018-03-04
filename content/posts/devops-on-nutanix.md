@@ -1,6 +1,6 @@
 ---
 date: 2018-02-26T11:08:53+08:00
-title: "DevOps on Nutanix - Beta"
+title: "DevOps on Nutanix[Beta]"
 subtitle: "如何使用超融合平台加速DevOps旅程"
 description: "如何使用超融合平台加速DevOps旅程"
 categories: "DevOps"
@@ -66,7 +66,7 @@ Nutanix 认为，利用其企业云操作系统软件，用户不但能实现公
 
 Nutanix提供免费的社区版本，对此感兴趣的人都可以下载和使用。使用这个版本，你能够在几个小时内，搭建起数量为1、3或者4个的物理服务器组成的Nutanix集群。
 
-关于如何安装和试用Nutnaix CE版本的技术文档，访问我的Nutanix实验室文档站点：[https://nutanix.martinliu.cn/](https://nutanix.martinliu.cn/)
+关于如何安装和试用Nutanix CE版本的技术文档，访问我的Nutanix实验室文档站点：[https://nutanix.martinliu.cn/](https://nutanix.martinliu.cn/)
 
 
 ## 使用Nutanix Calm实现DevOps持续交付
