@@ -10,7 +10,7 @@ googleAnalytics = "UA-749876-6"
 
 [Params]
 #  hello = "Do you have a pleasent DevOps journey?"
-  hello = "DevOps for everyone"
+  hello = "DevOps if for everyone who wants to evolving."
   subtitle = "Lean IT is a fundation"
 #  subtitle = "I am a runner, blogger and huge opensource fun"
   logo = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/avatar.jpg"
@@ -57,23 +57,23 @@ canonifyURLs = true
   post = "/:year/:month/:filename/"
 
 [[menu.main]]
-    name = "Home"
+    name = "首页"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Tags"
+    name = "标签"
     url = "tags"
     weight = 2
 
 [[menu.main]]
-    name = "About"
+    name = "关于"
     url = "about"
     weight = 3
 
 [[menu.main]]
     identifier = "Books"
-    name = "Books"
+    name = "书籍"
     weight = 4
 
 [[menu.main]]
