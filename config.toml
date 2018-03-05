@@ -10,8 +10,8 @@ googleAnalytics = "UA-749876-6"
 
 [Params]
 #  hello = "Do you have a pleasent DevOps journey?"
-  hello = "DevOps if for everyone who wants to evolving."
-  subtitle = "Lean IT is a fundation"
+  hello = "DevOps is for everyone who wants to evolving."
+  subtitle = "Lean IT is a foundation"
 #  subtitle = "I am a runner, blogger and huge opensource fun"
   logo = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/avatar.jpg"
   favicon = "/favicon.ico"
