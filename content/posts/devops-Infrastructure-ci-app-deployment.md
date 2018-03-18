@@ -6,10 +6,10 @@ description: "在DevOps的场景下如何对基础架构进行持续集成和分
 categories: "DevOps"
 tags: ["DevOps","CI","IaC"]
 keywords: ["DevOps","CI","IaC","CD","Jenkins","Chef"]
-bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/carauari-brazil.png", desc: "DevOps"}]
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/coding-snippet.jpg", desc: "DevOps"}]
 ---
 
-持续集成通常是针对应用而言的，可是基础架构的持续集成应该怎么做？基础架构的持续集成应该属于持续交付/部署的基础。
+持续集成通常是针对应用而言的，可是基础架构的持续集成应该怎么做？基础架构的持续集成应该属于持续交付/部署的基础。贯串本文的一个问题，或者在阅读本文时，您应该不断地问自己这个问题：我们的应用部署流程是怎样的？
 
 
 在回答这个问题之前，我们先来回顾一下，目前几乎所有人正在使用的手工环境和资源交付流程。在源码被编译打包了以后，安装包文件被上传保存到了内部的某个文件服务器上。Ops团队的某个组/人被分配到工单，根据工单描述的需求，它在测试或者生产环境中开始工作：
@@ -81,6 +81,10 @@ IaC这个概念最早是被Chef这类工具提出并实现，它的基本想法�
 * **模块化设计**:不同应用底层所使用的基础架构有着大量的相似之处，模块化的设计不仅意味着标准化，也意味着更少的重复代码。我所用过的Terraform、Chef和Puppet这三种工具，都具有高度的模块化特性。
 * **抽象能力**：能够使用不同的模块和参数对任何特征的应用进行建模，用IaC代码进行表达，基础架构的代码开发也就是借助这种抽象能力，将所有管理对象（配置管理项）具体化地描述为应用服务模型。编写出来的基础架构代码，不仅包含了所有对应用配置描述性的语义，而且还是能够被执行的代码，在IaC代码执行之后，你就得到了所期望的虚拟机、应用配置和应用服务。
 * **可测试性**：这是一个经常忽略的能力，而在了解之后，你会发现IaC也是编程语言，就是对基础架构进行高级的编程，而且IaC代码本身和它的运行结果都是可以测试的。在执行前对其语义语法测试，在运行以后对其运行结果测试。Chef在这方面表现的尤为突出。
+
+![Chef](https://res.cloudinary.com/martinliu/image/upload/chef-logo.png)
+
+![Terraform](https://res.cloudinary.com/martinliu/image/upload/LogoTerraform.png)
 
 
 ### 配置管理
@@ -250,6 +254,9 @@ Chef代码在测试虚拟机里的集成测试是本文的重点，集成测试�
 
 在集成测试的生命周期过程中也可能创建多个测试虚拟机/EC2实例，这个过程使对应用系统里的所有组件进行仿真的、实际的安装包和服务部署，进行单节点或者多节点的全量应用系统部署。在每个节点上都执行Chef代码，在Chef对应用系统的配置和部署完成之后，在对运行中的应用进行验证测试，测试包括测试相关的服务端口是否能访问，返回结果是否正常等等，Chef是可以进行测试驱动开发的，因此可以写出较细致的测试代码，从而分析本Cookbook集成测试通过与否。在测试结束了以后（最好是10分钟左右或更短），删除所有测试的虚拟机资源。
 
+![Nutanix](https://res.cloudinary.com/martinliu/image/upload/nutanix-logo.png)
+
+
 应该尽可能的优化这个集成测试，尽量缩短它的执行时间。可以创建专用的EC2-AMI/Nutanix/Kvm/VMWare操作系统镜像，预装所需要的Ruby环境和Chef工具。
 
 使用Chef Solo（不依赖chef服务器）执行Chef代码的测试，以免将临时节点也添加到了Chef服务器，同时也消除了Chef的客户端和服务器架构之间相互通讯的消耗，这个场景里其实没有使用Chef服务器的必要。使用一个名为CHEFDEV的伪环境来测试代码，而JSON文件里定义的真实环境则被保留用于正式生产环境。在创建EC2虚拟机的时候，给它们打上特定的标签，从而保持一定的可追踪性和环境的可维护性。
@@ -298,9 +305,17 @@ Cookbook的开发和集成完毕了以后，它的结果产物是一些列新版
 
 
 
-本文参考：[https://www.youtube.com/watch?v=PQ6KTRgAeMU
+## 引用
+
+### 参考视频 
+
+[https://www.youtube.com/watch?v=PQ6KTRgAeMU
 ](https://www.youtube.com/watch?v=PQ6KTRgAeMU
 )
+
+### 参考书籍
+
+![](https://res.cloudinary.com/martinliu/image/upload/book-infrastructure-as-code.png)
 
 
 
