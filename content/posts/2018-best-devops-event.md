@@ -1,7 +1,7 @@
 ---
 date: 2018-03-22T08:30:13+08:00
 title: "2018值得关注的15个DevOps大会"
-subtitle: "朋友圈是不是经常被各种国内大会刷屏，那么就放眼全球看一下吧，外面的世界很大。"
+subtitle: "朋友圈是不是经常被各种国内大会刷屏，那么就放眼全球吧，外面的世界很大。"
 description: ""
 categories: "DevOps"
 tags: ["DevOps"]

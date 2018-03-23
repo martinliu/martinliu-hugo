@@ -1,7 +1,7 @@
 ---
 date: 2018-03-23T17:50:25+08:00
-title: "2018年你必须认识到这6个DevOps趋势"
-subtitle: "保持敏锐的察觉力并跟随形式"
+title: "2018年必须认识到的6个DevOps趋势"
+subtitle: "保持敏锐的察觉力并紧跟趋势"
 description: "2018年你必须认识到这6个DevOps趋势"
 categories: "DevOps"
 tags: ["DevOps"]
