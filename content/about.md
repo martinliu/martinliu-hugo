@@ -27,3 +27,9 @@ http://www.martinliu.cn 是我的个人博客，开始于2007年。
 ![weichat](https://res.cloudinary.com/martinliu/image/upload/v1518107151/martinliu-weichat.jpg)
 
 
+### DevOps实践指南-译者
+
+![DevOps Handbook](http://res.cloudinary.com/martinliu/image/upload/v1524360305/devops-handboo-3d-500x500.jpg)
+
+* 京东书店：https://item.jd.com/26848921955.html
+* 英文原版-亚马逊书店：http://a.co/95lK7hC
