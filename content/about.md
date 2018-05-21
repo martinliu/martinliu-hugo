@@ -13,7 +13,7 @@ http://www.martinliu.cn 是我的个人博客，开始于2007年。
 最近这些年我从事DevOps教练和云计算相关的工作，喜爱跑步和写博客，热爱开源软件。
 
 
-### 我的联系信息
+### 联系信息
 
 * QQ : 67120666
 * Twitter : martinliu
@@ -25,7 +25,7 @@ http://www.martinliu.cn 是我的个人博客，开始于2007年。
 ![weichat](https://res.cloudinary.com/martinliu/image/upload/v1518107151/martinliu-weichat.jpg)
 
 
-### 我的翻译书籍《DevOps实践指南》
+### 翻译的书籍《DevOps实践指南》
 
 ![DevOps Handbook](http://res.cloudinary.com/martinliu/image/upload/v1524360305/devops-handboo-3d-500x500.jpg)
 
