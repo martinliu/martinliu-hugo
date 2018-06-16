@@ -22,16 +22,16 @@ http://www.martinliu.cn 是我的个人博客，开始于2007年。
 * 个人微信号： martinliu_cn
 
 
-![weichat](https://res.cloudinary.com/martinliu/image/upload/v1518107151/martinliu-weichat.jpg)
-
 
 ### 翻译的书籍《DevOps实践指南》
 
 ![DevOps Handbook](http://res.cloudinary.com/martinliu/image/upload/v1524360305/devops-handboo-3d-500x500.jpg)
 
-购买：
+京东和亚马逊有售。
 
 * 京东书店：https://item.jd.com/26848921955.html
 * 英文原版-亚马逊书店：http://a.co/95lK7hC
+
+以这本书是国际认证培训 Exin DevOps Professional（简称DOP）的教材，我从2016年起获取了Exin的独立讲师资质，欢迎参加我的DevOps培训课，DOP认证培训近期火热招生中，详情请访问：http://devopscoach.org
 
 ----
