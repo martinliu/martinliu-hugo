@@ -6,7 +6,7 @@ description: "如果选择了错误的DevOps度量模型，就像货轮的导航
 categories: "DevOps"
 tags: ["DevOps"]
 keywords: ["度量"]
-bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/abstract-1.jpg", desc: "DevOps"}]
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/v1549271017/Anubis-Background-Download-Free.jpg", desc: "Anubis"}]
 ---
 
 上一篇文章重要观点回顾：

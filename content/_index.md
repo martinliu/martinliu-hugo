@@ -1,1 +1,1 @@
-刘征（Martin Liu）是[DevOps Handbook](http://www.ituring.com.cn/book/1891)的译者，Exin首批国内[**DOP和DOM认证讲师**](https://www.exin.jp/CN/zh/exams/&fw=exin-devops)，从业十多年以来积累了丰富的云计算技术和项目经验，持有红帽RHCA认证和AWS高级架构师认证。谙熟企业数据中心的IT服务管理。目前致力于推广DevOps的理念和技术实践。
+刘征（Martin Liu）是[DevOps Handbook](http://www.ituring.com.cn/book/1891)的译者。中国DevOps社区核心组织者，致力于在中国大陆推广DevOps的理念、技术和实践。定期的组织[中国DevOpsDays大会](http://chinadevopsdays.org)，[DevOps社区线下Meetup](https://devopsmeetup.com)和线上分享。
