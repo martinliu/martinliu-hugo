@@ -23,7 +23,7 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 * [ ] Add Algolia search.
 * [x] Add CI/CD tools: Netlify and greenkeeper
 * [ ] 测试
-* test on macbook 15
+
 
 ## Acknowledgements
 
