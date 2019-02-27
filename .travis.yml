@@ -4,13 +4,18 @@ go:
   - master
 
 install:
+  - echo 'Install Hugo'
   - go get github.com/spf13/hugo 
+  - hugo version
+
 
 
 
 script:
+  - echo 'Build new site'
   - hugo # This commands builds your website on travis
   - cp README.md public
+  - echo 'New site is ready to deploy'
 
 
 deploy:
@@ -22,5 +27,4 @@ deploy:
   github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
   email: liuzh66@gmail.com
   name: "Martin Liu"
-  on:
-    branch: master
+  - echo 'Deployment complated!!!'
