@@ -1,12 +1,12 @@
 ---
 date: 2019-03-07T12:27:16+08:00
-title: "产品管理遇遇上Devops"
+title: "产品管理遇上Devops"
 subtitle: "CSG公司在2018年DevOps企业峰会上的分享"
-description: "产品管理和是项目管理？"
+description: "产品管理还是项目管理？在DevOps世代里，向左走还是向右走？"
 categories: "DevOps"
 tags: ["DevOps", "csg", "DOES"]
 keywords: ["DevOps","csg", "DOES","does2018", "pm"]
-bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/v1551950710/bjxysnye.png", desc: "DevOps Handbook"}]
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/v1551950710/bjxysnye.png", desc: "PM vs VM"}]
 ---
 
 DevOps企业峰会是历史悠久的DevOps主题企业级峰会，近年来在北美的拉斯维加斯和欧洲的伦敦每年各举办一次。
