@@ -1,32 +1,28 @@
 ---
 date: 2019-03-09T22:27:16+08:00
-title: "2019年Devops的7个预测"
-subtitle: "7 Predictions for DevOps in 2019"
-description: "翻译的XebiaLabs的一篇文章"
+title: "2019年DevOps的几个预测"
+subtitle: "Some Predictions for DevOps in 2019"
+description: "参考了XebiaLabs和其它的几篇文章"
 categories: "DevOps"
 tags: ["DevOps", "csg", "DOES"]
 keywords: ["DevOps","csg", "DOES","does2018", "pm"]
 bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/v1551950710/bjxysnye.png", desc: "PM vs VM"}]
 ---
+## 1. 将持续集成作为流水线的重要工作事项
 
-## 1. 将持续集成流水线作为DevOps流水线的重要事项
+如果企业希望提高团队用在功能开发上的可用时间，从而加速向生产环境中交付的话，那么在整个DevOps流水线中，引进持续集成CI部分将成为高优先级且重要的事项。监控CI流水线相关的数据、活动和流程的能力将变得非常重要，这样可以使发布流程中的所有人都能看到最新的流程状态，从而减少开发人员花费在无关任务上的时间。 【来自：XebiaLabs产品开发副总裁Andreas Prins】
 
-在2019年，在整个DevOps流水线中集成持续集成流水线，将成为优先级高的重要事项，如果企业希望增加功能开发的可用时间并加速生产交付的话。监控CI流水线相关的数据、活动、和流程的能力将变得非常重要，这可以使所有人发布流程中的每个人保持最新并减少开发人员花费在无关任务上的时间至关重要。
+## 2. 价值流映射的广泛使用
 
-XebiaLabs产品开发副总裁Andreas Prins
+目前，随着软件交付的速度和质量正成为大型企业的巨大竞争优势，越来越多的组织将会探索价值流映射（Value stream mapping）的使用方式，从而确保他们的软件开发是和整体业务价值保持一致的。这种转变将会减少软件发布流水线中的浪费，并创建出更强大的跨职能团队协作。【来自：Lisa Wells，XebiaLabs产品营销副总裁】
 
-2.随着软件交付的速度和质量现在成为大型企业的巨大竞争优势，更多的组织将寻求价值流映射，以了解他们是否在他们的软件开发和整体业务价值之间建立联系。这种转变将减少软件发布管道中的浪费，并创建更强大的跨职能团队协作。
+
+## 3. 
+
+随着IT部门不断提高软件业务价值的压力将会增加。因此，组织将寻找挖掘由其交付流程创建的大量机器数据的方法，从而不仅仅是事后分析，还包括预测性DevOps。这种方法将使他们能够更好地预测其交付流程和基础架构中的问题，这些问题可能会对应用程序质量和安全性产生负面影响并缩短产品上市时间。
 
 Lisa Wells，XebiaLabs产品营销副总裁
 
-3.在2019年，IT部门不断提高软件业务价值的压力将会增加。因此，组织将寻找挖掘由其交付流程创建的大量机器数据的方法，从而不仅仅是事后分析，还包括预测性DevOps。这种方法将使他们能够更好地预测其交付流程和基础架构中的问题，这些问题可能会对应用程序质量和安全性产生负面影响并缩短产品上市时间。
-
-Lisa Wells，XebiaLabs产品营销副总裁
-
-DevOps Tools v.3的周期表现已推出！
-
-DevOps工具的周期表
-XObiaLabs DevOps Tools v.3周期表包含52个新的DevOps工具，一个集成的DevOps Diagram Generator和一个全新的外观。看看这个！
 4. DevOps是关于人，流程和工具的。对于任何DevOps计划，人员和流程需要首先提供最大价值。在2019年，我们将看到企业越来越重视培养在复杂的应用程序管道中交付的共同责任文化。这些团队需要了解协作和进度。对于成功的举措，关键是随着项目的进展，与整个公司分享努力的结果。毕竟，除了证明他们的努力能够带来关键成果之外，没有什么比激励团队更好的方式了。
 
 T.J. Randall，客户成功副总裁，XebiaLabs
@@ -75,3 +71,4 @@ Vincent Lussenburg, Director of DevOps Strategy, XebiaLabs
 7. The call for security to “shift left” will become better understood and more effective in practice. In 2018, “shift left” was often misused as a way to shift blame for insecure software to developers. In 2019, DevSecOps will become just another natural aspect of DevOps, where security is built into the process at every phase and is everyone’s responsibility.
 
 Vincent Lussenburg, Director of DevOps Strategy, XebiaLabs
+

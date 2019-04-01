@@ -1,1 +1,2 @@
-刘征（Martin Liu）是[DevOps Handbook](http://www.ituring.com.cn/book/1891)的译者。中国DevOps社区核心组织者，致力于在中国大陆推广DevOps的理念、技术和实践。定期的组织[中国DevOpsDays大会](http://chinadevopsdays.org)、[DevOps社区线下Meetup](https://devopsmeetup.com)和线上分享。
+刘征是[《DevOps Handbook》（中文书名：DevOps实践指南）](http://www.ituring.com.cn/book/1891)的译者，中国DevOps社区组织者，致力于推广DevOps的理念、技术和实践。
+

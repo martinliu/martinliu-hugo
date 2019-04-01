@@ -9,13 +9,10 @@ install:
   - hugo version
 
 
-
-
 script:
 
   - hugo # This commands builds your website on travis
   - cp README.md public
-
 
 
 deploy:

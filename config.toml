@@ -1,5 +1,5 @@
 baseurl = "https://martinliu.cn/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 hasCJKLanguage = true
 languageCode = "zh-cn"
 title = "Martin's Blog" 
@@ -10,8 +10,8 @@ googleAnalytics = "UA-749876-6"
 
 [Params]
 #  hello = "Do you have a pleasent DevOps journey?"
-  hello = "DevOps is for everyone who wants to evolving."
-  subtitle = "Lean IT is a foundation"
+  hello = "DevOps适用于任何希望持续进化的IT组织"
+  subtitle = "精益IT实践非常重要"
 #  subtitle = "I am a runner, blogger and huge opensource fun"
   logo = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/avatar.jpg"
   favicon = "/favicon.ico"
@@ -35,8 +35,8 @@ googleAnalytics = "UA-749876-6"
 #  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
 #  desc = "国家剧院/SandraLi"
 [[Params.bigimg]]
-  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/sandra_li-2.jpg"
-  desc = "国家大剧院/SandraLi"
+  src = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/fw2.jpg"
+  desc = "DevOps is for everyone"
 
 [Author]
   name = "刘征 Martin Liu"
@@ -72,18 +72,6 @@ canonifyURLs = true
     weight = 3
 
 [[menu.main]]
-    identifier = "Books"
     name = "书籍"
     weight = 4
-
-[[menu.main]]
-    parent = "Books"
-    name = "DevOps实践指南"
     url = "https://handbook.martinliu.cn"
-    weight = 1
-
-[[menu.main]]
-    parent = "Books"
-    name = "Nutanix实验室"
-    url = "https://nutanix.martinliu.cn"
-    weight = 2
