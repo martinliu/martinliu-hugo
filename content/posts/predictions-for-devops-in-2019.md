@@ -1,13 +1,15 @@
 ---
 date: 2019-03-09T22:27:16+08:00
-title: "2019年DevOps的几个预测"
-subtitle: "Some Predictions for DevOps in 2019"
+title: "2019年关于DevOps的几个预测"
+subtitle: "来自3个网站的22项预测"
 description: "参考了XebiaLabs和其它的几篇文章"
 categories: "DevOps"
-tags: ["DevOps", "XebiaLabs", "预测"]
-keywords: ["DevOps","XebiaLabs", "预测","does2018", "pm"]
-bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/v1551950710/bjxysnye.png", desc: "各种预测"}]
+tags: ["DevOps",  "预测"]
+keywords: ["DevOps","XebiaLabs", "预测","G20Group", "Veritis"]
+bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/15218597150085.jpg", desc: "各种预测"}]
 ---
+本文汇聚了来自3个网站的预测文章，他们分别是XebiaLabs、G20Group和Veritis。在总共22项预测中，个别预测是相同的。DevOps是一个持续进化和发展的过程，同时也受到目前各种新技术的影响。
+
 ## XebiaLabs的7个预测
 
 英文原文： https://blog.xebialabs.com/2019/01/10/7-predictions-for-devops-in-2019/
@@ -68,7 +70,7 @@ DevOps同时关乎于人、流程和工具。对于任何DevOps实施计划而�
 
 ## 来自Veritis的10个预测
 
-!(10个预测)[/images/DevOps-top-10-Predictions-2019-768x1152.jpg]
+![10个预测](/images/DevOps-top-10-Predictions-2019-768x1152.jpg)
 
 
 原文： https://www.veritis.com/blog/devops-trends-top-10-predictions-for-devops-in-2019/
