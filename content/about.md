@@ -10,7 +10,7 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/ZellerHorn_ZH-
 ---
 
 http://www.martinliu.cn 是我的个人博客，开始于2007年。
-最近这些年我热衷于DevOps理念、实践和文化的推广，热衷于DevOps社区相关的推动工作，喜爱跑步和写博客，热爱开源软件。
+最近这些年我热衷推广DevOps实践、理念和文化，热衷于组织DevOps社区的交流和活动，喜爱跑步和写博客，热爱开源软件。
 
 # 翻译书籍[《DevOps Handbook》](https://itrevolution.com/book/the-devops-handbook/)
 
