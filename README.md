@@ -16,17 +16,14 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 * Master branch protection for master:
     -  continuous-integration/travis-ci
     -  deploy/netlify
+* Add in to my own Jenkins server build pipeline.
 
 
-## To-Do list
-
-* [x] Add CI/CD tools: Netlify and greenkeeper
-* [ ] 测试
 
 
 ## Acknowledgements
 
-- [Algolia](https://www.algolia.com/): search platform
+- [swiftype](https://www.swiftype.com/): search platform
 - [autocomplete.js](https://github.com/algolia/autocomplete.js): search frontend
 - [Beautiful Hugo](https://github.com/halogenica/beautifulhugo): theme
 - [Bitlinks](https://bitly.com/) Short links
@@ -36,3 +33,5 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 - [Hugo](https://gohugo.io/): static website builder
 - [Hugo-algolia](https://www.npmjs.com/package/hugo-algolia): index json builder
 - [Prism](http://prism.com/): code highlight
+
+
