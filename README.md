@@ -1,9 +1,5 @@
 # Martin's blog source code
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/martinliu/martinliu-hugo.svg)](https://greenkeeper.io/)
-
-[![Build Status](https://travis-ci.org/martinliu/martinliu-hugo.svg?branch=master)](https://travis-ci.org/martinliu/martinliu-hugo)
-
 Visit my blog at [https://martinliu.cn](https://martinliu.cn) ; this repo is source code
 
 Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Beautiful Jekyll](http://deanattali.com/beautiful-jekyll/) adapted to [Beautiful Hugo](https://github.com/halogenica/beautifulhugo)
