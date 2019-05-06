@@ -37,7 +37,7 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/2019-dora.png"
 
 非常感谢您花时间帮助我们去探索那些能使技术进步的秘密！
 
-### 1. 您组织主要属于哪个行业？
+### 1. 您的组织主要属于哪个行业？
 
 * 教育
 * 能源
@@ -132,7 +132,7 @@ bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/2019-dora.png"
 
 这部分涉及您的工作及其成果，以及它对您自身的影响。
 
-### 1. 在你*工作*的过程中，你的感受是怎样的？ 
+### 1. 在你工作的过程中，你的感受是怎样的？ 
 
 请评价您对以下陈述的同意或不同意程度。
 
