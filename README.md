@@ -20,14 +20,11 @@ Proudly powered by [Hugo](https://github.com/gohugoio/hugo) ❤️, Theme by [Be
 ## Acknowledgements
 
 - [swiftype](https://www.swiftype.com/): search platform
-- [autocomplete.js](https://github.com/algolia/autocomplete.js): search frontend
 - [Beautiful Hugo](https://github.com/halogenica/beautifulhugo): theme
-- [Bitlinks](https://bitly.com/) Short links
 - [Cloudfare](https://www.cloudflare.com/): DNS and https
 - [Cloudinary](https://www.cloudinary.com/): CDN and static images hosting
 - [Github Pages](https://pages.github.com/): website hosting
 - [Hugo](https://gohugo.io/): static website builder
-- [Hugo-algolia](https://www.npmjs.com/package/hugo-algolia): index json builder
 - [Prism](http://prism.com/): code highlight
 
 
