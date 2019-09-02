@@ -139,7 +139,7 @@ TOC是一个值得关注的问题解决套路，参考其它的相关文章和�
 
 请关注DevOps教练的公众号，在后台输入2019，下载本文中各种模型的高清大图。
 
-![](https://res.cloudinary.com/martinliu/image/upload/v1567345032/devops-caoch-qc.jpg)
+![](https://res.cloudinary.com/martinliu/image/upload/v1566516259/DevOps-Coach-qrcode_for_gh_bce38ef330e5_430.jpg)
 
 
 -------
