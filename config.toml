@@ -83,3 +83,8 @@ canonifyURLs = true
     name = "书籍"
     weight = 4
     url = "book"
+
+
+[params.adsense]
+  client = "ca-pub-12345"
+  inArticleSlot = "12345"
