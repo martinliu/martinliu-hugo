@@ -118,7 +118,7 @@ See upload log at path ./upload.log
 
 ```
 七牛的域名配置如下图所示：
-![Google-Chrome-5](images/Google-Chrome-5.jpg)
+![Google-Chrome-5](/images/Google-Chrome-5.jpg)
 
 
 
@@ -136,7 +136,7 @@ See upload log at path ./upload.log
 目前使用的是七牛的免费流量和空间套餐，套餐内的各种数量限制如下。
 
 
-![Screen-Shot-2017-09-23-at-11.21.57-A](images/Screen-Shot-2017-09-23-at-11.21.57-AM.png)
+![Screen-Shot-2017-09-23-at-11.21.57-A](/images/Screen-Shot-2017-09-23-at-11.21.57-AM.png)
 
 
 

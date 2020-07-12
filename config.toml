@@ -1,3 +1,10 @@
+#baseurl = "https://martinliu.gitlab.io/martinliu-hugo/"
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+canonifyurls  = true
+
+
 baseurl = "https://martinliu.cn/"
 DefaultContentLanguage = "zh"
 hasCJKLanguage = true
@@ -20,7 +27,7 @@ googleAnalytics = "UA-749876-6"
   #rss = true
   comments = false
   sharebutton = true
-  algolia = "06f3928eb3fad870c9197c68c238dbd3" # API key
+  #algolia = "06f3928eb3fad870c9197c68c238dbd3" # API key
   #gcse = "012737790962522169780:fd1izxsfgrs" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
   description = "Martin Liu's Blog"
   errorpage = "https://res.cloudinary.com/martinliu/image/upload/q_auto:eco/404-error.png"
@@ -43,9 +50,10 @@ googleAnalytics = "UA-749876-6"
   website = "martinliu.cn"
   email = "liuzh66@gmail.com"
   #facebook = "username"
-  googleplus = "+MartinLiu-cn"
+  #googleplus = "+MartinLiu-cn"
+  #weibo = “martinliu”
   github = "martinliu"
-#  gitlab = "username"
+  gitlab = "martinliu"
   twitter = "martinliu"
 #  reddit = "username"
   linkedin = "liuzheng"
@@ -74,4 +82,4 @@ canonifyURLs = true
 [[menu.main]]
     name = "书籍"
     weight = 4
-    url = "https://handbook.martinliu.cn"
+    url = "book"

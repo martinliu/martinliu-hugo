@@ -32,7 +32,7 @@ bigimg: [{src: "/images/abstract-11.jpg"}]
 <li>除了奇特的地质和石头以外，种类繁多、在海边栖息的海鸟也是不可错过的观赏目标。</li>
 </ul>
 
-![yeliu-park](images/yeliu-park.jpg)
+![yeliu-park](/images/yeliu-park.jpg)
 
 
 <p>我觉得如果是天气晴朗就更好了，那样岩石、大海和环境的色彩才会更加的漂亮。整个公园不是很大，景色变化不大；由于没有看到公园的另外一半，感觉还是有些缺憾。</p>

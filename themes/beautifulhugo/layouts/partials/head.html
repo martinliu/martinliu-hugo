@@ -49,14 +49,14 @@
 {{- with .Site.Params.fb_app_id }}
   <meta property="fb:app_id" content="{{ . }}" />
 {{- end }}
-  <meta property="og:url" content="{{ .URL | absLangURL }}" />
+  <meta property="og:url" content="{{ .Permalink | absLangURL }}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta name="keywords" content="{{ delimit .Keywords " , " }}" />
 <!-- Hugo Version number -->
-  {{ .Hugo.Generator -}}
+  {{ hugo.Generator -}}
 <!-- Links and stylesheets -->
-  <link rel="canonical" href="{{ .URL | absLangURL }}" />
+  <link rel="canonical" href="{{ .Permalink | absLangURL }}" />
   <link rel="alternate" href="{{ "index.xml" | absLangURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
   <script src="{{ "https://res.cloudinary.com/martinliu/raw/upload/static/jquery-1.12.4.min.js" | absURL }}"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
