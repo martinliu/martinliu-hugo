@@ -1,11 +1,11 @@
 ---
 date: 2020-07-28T10:35:19+08:00
-title: "DevOps Coach 周报 #1"
+title: "DevOps Coach 周刊 #1"
 subtitle: "DevOps 教练需要学习的全球新闻，文章，宕机事件和流行工具"
 description: "DevOps 教练需要学习的全球新闻，文章，宕机事件和流行工具"
 categories: "DevOps"
-tags: ["周报"]
-keywords: ["DevOps","DevOps教练","周报"]
+tags: ["周刊"]
+keywords: ["DevOps","DevOps教练","周刊"]
 bigimg: [{src: "https://res.cloudinary.com/martinliu/image/upload/abstract-1.jpg", desc: "DevOps"}]
 ---
 
