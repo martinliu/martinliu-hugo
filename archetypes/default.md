@@ -7,5 +7,6 @@ categories: "DevOps"
 tags: ["DevOps"]
 keywords: ["DevOps"]
 bigimg: [{src: "/images/abstract-1.jpg", desc: "DevOps"}]
+draft: true
 ---
 
