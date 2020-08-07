@@ -1,6 +1,6 @@
 ---
 date: 2020-08-07T17:14:20+08:00
-title: "腾讯云下部署 Elastic Stack 各种 Beats 的最佳实践"
+title: "腾讯云下部署 Elastic Stack 各种 Beat 的最佳实践"
 subtitle: "如何安全、有弹性和可扩展的使用 Beat 摄入数据"
 description: "如何安全、有弹性和可扩展的使用 Beat 摄入数据"
 categories: "DevOps"
@@ -92,7 +92,7 @@ metricbeat setup -e   \
 参考和修改安装脚本，一键式安装和配置 Beats
 
 ```
-git clone https://github.com/martinliu/joint-lab.git
+git clone https://github.com/martinliu/elastic-stack-lab.git
 cd tencent
 sh add-agent.sh
 ```
@@ -230,5 +230,7 @@ monitoring:
 ## 总结
 
 以上是在 Beats 部署相关基础最佳实践，也就是说在生产环境中 ES 后台和 beats 的搭配，以及本文所涉及的内容都是基线配置。建议根据自己的需求做更多的调优，这里使用 shell 脚本的方式部署 beats 和相关的配置，shell 脚本适合用于演示原理，建议替换成你所熟悉的自动化运维工具，例如 ansible 等工具。从而保证更大规模的自动化部署和维护。
+
+本相关的配置文件和脚本位于：https://github.com/martinliu/elastic-stack-lab.git
 
 
