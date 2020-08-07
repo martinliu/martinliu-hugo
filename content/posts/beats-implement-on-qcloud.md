@@ -1,6 +1,6 @@
 ---
 date: 2020-08-07T17:14:20+08:00
-title: "在腾讯云下部署 Elastic Stack 的 Beats 的最佳实践"
+title: "腾讯云下部署 Elastic Stack 各种 Beats 的最佳实践"
 subtitle: "如何安全、有弹性和可扩展的使用 Beat 摄入数据"
 description: "如何安全、有弹性和可扩展的使用 Beat 摄入数据"
 categories: "DevOps"
