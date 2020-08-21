@@ -7,7 +7,6 @@ categories: "DevOps"
 tags: ["周刊"]
 keywords: ["DevOps", "DevOps教练", "周刊"]
 bigimg: [{ src: "/images/abstract-4.jpg", desc: "周刊" }]
-draft: true
 ---
 
 ![DevOps Coach weekly update](/images/weeklyupdate.jpg)
@@ -18,6 +17,9 @@ draft: true
 - 近期全球重大宕机事故的分析总结、事后回顾。
 
 ### 上周新发宕机事故
+
+> May your queries flow and your pagers stay silent.
+> --Dave, Betsy, Niall, Stephen, and Kent
 
 ## 新闻
 
