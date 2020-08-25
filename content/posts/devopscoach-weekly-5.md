@@ -88,7 +88,7 @@ GitLab 的大会 -- Commit: You belong here
 - 线上免费峰会
 - https://about.gitlab.com/events/commit/
 
-推荐你感兴趣的社区大议，发邮件到：martin@devopscoach.org
+推荐你感兴趣的大会和峰会，发邮件到：martin@devopscoach.org
 
 ### Grafana Labs 喜提 B 轮 5000 万美元融资
 
