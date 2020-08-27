@@ -156,7 +156,7 @@ GitLab 的大会 -- Commit: You belong here
 2019 谷粒商城微服务 SpringBoot,Dubbo,MySql 高级,Redis 秒杀,ElasticSearch,ActiveMQ,SSO 单点登
 
 - https://www.bilibili.com/video/BV1B4411V7cA
-- 2019 尚硅谷谷粒商城微服务 SpringBoot, zookeep 注册中心, Dubbo, MySql 高级, ElasticSearch, ActiveMQ, 通用 mapper, 解决秒杀, SSO 单点登录, OAuth2 协议三方登录, 第三方支付接口对接, Redis lua 脚本, Redis 秒杀, Redis 分布式锁, 集群搭建, 分布式, sku,spu 表结构介绍, 等等技术结合使用~~~~~~~~~~~
+- 2019 谷粒商城微服务 SpringBoot, zookeep 注册中心, Dubbo, MySql 高级, ElasticSearch, ActiveMQ, 通用 mapper, 解决秒杀, SSO 单点登录, OAuth2 协议三方登录, 第三方支付接口对接, Redis lua 脚本, Redis 秒杀, Redis 分布式锁, 集群搭建, 分布式, sku,spu 表结构介绍, 等等技术结合使用~~~~~~~~~~~
 - 播放量： 10w+
 
 Git+GitHub 教程
