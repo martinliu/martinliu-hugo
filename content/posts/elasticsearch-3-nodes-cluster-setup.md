@@ -4,7 +4,7 @@ title: "Elasticsearch 3 节点集群搭建 (7.9.0)"
 subtitle: "高可靠性 3 节点的 ES 集群适用于各种应用场景"
 description: "高可靠性 3 节点的 ES 集群适用于各种应用场景"
 categories: "DevOps"
-tags: ["DevOps"]
+tags: ["DevOps","Elastic Stack","Elasticsearch"]
 keywords: ["DevOps","Elastic Stack","Elasticsearch"]
 bigimg: [{src: "/images/abstract-6.jpg", desc: "DevOps"}]
 ---
@@ -14,7 +14,7 @@ bigimg: [{src: "/images/abstract-6.jpg", desc: "DevOps"}]
 * 启用用户名和密码认证
 * 启用集群内 es 节点间 transport.ssl 通讯加密
 * 启用 es 的 http 客户端 http.ssl 加密通讯
-* 安装脚本中包括创建数字证书的必要命令（没猜错的话大，部分人可能会在这异步花费大量时间）
+* 安装脚本中包括创建数字证书的必要命令（没猜错的话，大部分人可能会在这一步花费大量时间）
 
 
 ## 演示环境介绍
