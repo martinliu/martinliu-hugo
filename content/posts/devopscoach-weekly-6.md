@@ -21,12 +21,12 @@ bigimg: [{ src: "/images/abstract-3.jpg", desc: "周刊" }]
 
 * Zoom 无法开始和加入会议， 官方报道 https://status.zoom.us/incidents/1z2lrf4nrv8p
 * Slack 多个功能模块服务降级，甚至无法使用，官方：https://status.slack.com//2020-08/960bbb3c9d49a3cc 
-* Let's Encrypt 数据中心硬件方式故障导致 API 报多，官方：https://status.io/pages/incident/55957a99e800baa4470002da/5f45330250878c04bf3fb6eb 
+* Let's Encrypt 数据中心硬件方式故障导致 API 报错，官方：https://status.io/pages/incident/55957a99e800baa4470002da/5f45330250878c04bf3fb6eb 
 * NZX 新西兰证券交易所遭受重大DDoS攻击导致NZX停电，交易停止。媒体：https://www.stuff.co.nz/business/122562006/major-ddos-attack-causes-nzx-power-outage-trading-halt 
 * eBay宕机。服务器状态最新，DNS故障和服务不可用的错误错误，媒体：https://www.express.co.uk/life-style/science-technology/1329281/eBay-down-server-status-DNS-failure-service-unavailable-error
 * Heroku 发生大量的 H100 报错，官方：https://status.heroku.com/incidents/2101
 * Fastly CDN 服务商的服务发生多区域性能故障，官方：https://status.fastly.com/incidents/p1lwmmv2j2gq
-* Cloudflare 上周发生的这个问题，我的个人 blog 也遇到了，Google 的搜索索引服务记录了那些 500 错误，我也是非常的差异；第三方传输供应商问题导致HTTP 5xx错误增加； 官方：https://www.cloudflarestatus.com/incidents/hptvkprkvp23
+* Cloudflare 上周发生的这个问题，我的个人 blog 也遇到了，Google 的搜索索引服务记录了那些 500 错误，我也感到非常诧异；第三方传输供应商问题导致HTTP 5xx错误增加； 官方：https://www.cloudflarestatus.com/incidents/hptvkprkvp23
 
 
 
